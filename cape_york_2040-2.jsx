@@ -2085,7 +2085,7 @@ function AccessGate({ onUnlock }) {
 }
 
 export default function CapeYork2040() {
-  const [unlocked, setUnlocked] = useState(true);
+  const [unlocked, setUnlocked] = useState(false);
   const [view, setView] = useState("choose");
   const View = VIEWS[view] || OverviewView;
 
