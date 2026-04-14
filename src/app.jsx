@@ -2116,5 +2116,4 @@ export default function CapeYork2040() {
       <View setView={setView} />
     </div>
   );
-}
-export default CapeYork2040;
+}export default CapeYork2040;
