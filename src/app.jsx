@@ -2117,3 +2117,4 @@ export default function CapeYork2040() {
     </div>
   );
 }
+export default CapeYork2040;
