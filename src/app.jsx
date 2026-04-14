@@ -37,7 +37,7 @@ TARGET: 50%+ African blood (Boran/Angoni/Mashona blend). Mature weight ceiling 4
 
 THREE FOUNDATION BREEDS:
 1. BORAN (Kenya, Ethiopia, Somalia): The most important input. Heat-tolerant, tick-resistant, highly fertile, calm temperament. Proven in northern Australian trials. Efficient conversion on poor native pasture. 350-420kg mature weight. 30-40% lower methane/kg than European breeds.
-2. ANGONI/NGONI (Malawi, Zambia, Mozambique): Smallest frame — sets the size floor (280-360kg). Developed under conditions almost identical to Cape York. Exceptional fertility — calves every 12 months on minimal nutrition. Disease tolerance including tick fever and trypanosomiasis. Ideal size for Indonesian live import market.
+2. ANGONI/NGONI (Malawi, Zambia, Mozambique): Smallest frame — sets the size floor (280-360kg). Developed under conditions almost identical to Cape York. Exceptional fertility — calves every 12 months on minimal nutrition. Disease tolerance including tick fever and trypanosomiasis. At 280–360kg, the Angoni is close to the bottom of the Indonesian feeder weight range — useful for establishing the small-frame floor of the composite.
 3. MASHONA (Zimbabwe): Sanga genetics (Bos indicus x African Bos taurus) producing superior meat quality vs pure zebu. Proven on poor laterite veld without supplementation. Strong bone structure despite small frame. 320-400kg mature weight.
 
 CROSSING PROGRAMME:
@@ -49,7 +49,7 @@ CROSSING PROGRAMME:
 
 GENETIC MATERIAL STATUS: Boran semen — already in Australia, crossing can commence immediately. Mashona semen — already in Australia, crossing can commence immediately. Angoni — NOT yet in Australia, future import project requiring DAFF biosecurity clearance (3-5 years). Do not describe Angoni as immediately available.
 
-400KG CEILING RATIONALE: An animal reaching 400kg on native pasture without supplementation is proving ecological alignment. One requiring supplementation to reach 500kg is a liability — it competes with the ecological system. The 400kg ceiling is the proof of fitness. It is also precisely the weight Indonesian and Vietnamese live import buyers want. Market and ecology converge on the same answer.
+400KG CEILING RATIONALE: An animal reaching 400kg on native pasture without supplementation is proving ecological alignment. One requiring supplementation to reach 500kg is a liability — it competes with the ecological system. The 400kg ceiling is the proof of ecological fitness. Indonesian feedlots import Australian cattle at an average of around 320kg liveweight — 2 to 3 year old Bos indicus feeders that finish out in Indonesian feedlots at 500–600kg. A Cape York animal reaching 400kg mature weight on native pasture produces steers that hit the 300–350kg feeder window at the right age. The ecology and the market converge — but for the right reason.
 
 HERD PATHWAY: 50,000 (2025) → 55,000 (2027, culled) → 75,000 (2030, F1 entering) → 110,000 (2034, F2 50% African) → 135,000 (2038, composite stabilised) → 150,000 (2040, full ecological adaptation).
 
@@ -183,101 +183,126 @@ function Nav({ view, setView }) {
 
 
 function CapePassageView({ setView }) {
-  const phases = [
-    { yr: "2027", label: "Prove the Route", col: C.turquoise, capex: "$300–500K",
-      points: ["Charter 800–1,200 head livestock vessel, May–Nov muster season","3–5 voyages Weipa to Townsville carrying Paniri cattle","Construct loading yards and ramp at Evans Landing, Weipa","Collect rigorous cost, welfare, and emissions data vs road benchmark","Establish NQBP port access agreements for livestock loading"] },
-    { yr: "2028", label: "Secure the Southern End", col: C.green, capex: "$3–8M",
-      points: ["Acquire backgrounding block within 100km of Townsville (5,000–15,000ha)","Open coastal shipping to 2–3 neighbouring Cape York stations fee-for-service","Target 4,000–6,000 head/season across Paniri and third-party","Register carbon project on backgrounding block (soil carbon)","Begin grazing management redesign across five Paniri stations"] },
-    { yr: "2029", label: "Integrate the Chain", col: C.gold, capex: "$2–5M",
-      points: ["Acquire or bareboat charter dedicated vessel 1,000–2,000 head ($2–5M secondhand)","6,000–10,000 head/season; backhaul revenue (station supplies northbound)","Backgrounding block fully operational — 2,000–4,000 head throughput","Direct supply relationships with 1–2 feedlots or processors","First ACCU credits from backgrounding block generated"] },
-    { yr: "2030", label: "Scale the Platform", col: C.dirt, capex: "Cash positive",
-      points: ["10,000–15,000 head/season; per-head shipping cost <$40 to Townsville","Evaluate Karumba as second loading point for Gulf-side stations","Backgrounding block operating as standalone profit centre","Direct-to-processor supply commanding premium over saleyard","Whole-of-chain carbon narrative presented to institutional ACCU buyers"] },
-    { yr: "2031", label: "Own the Model", col: C.sky, capex: "Platform complete",
-      points: ["Only vertically integrated pastoral-carbon-logistics platform in northern Australia","Carbon and cattle dual-infrastructure moat — extremely difficult to replicate","Proof-of-concept established for Cape York 2040 international EPEZ pitch","NQBP / Rio Tinto relationship operational — foundation for SPV conversation","Natural pathways from logistics aggregation into carbon project partnerships"] },
-  ];
+
   const economics = [
     { route: "Cape to Townsville", road: "$100–150", sea: "$50–80", saving: "$40–80" },
     { route: "Cape to Mackay", road: "$150–200", sea: "$70–100", saving: "$70–110" },
     { route: "Cape to Rockhampton", road: "$180–250", sea: "$90–120", saving: "$80–140" },
     { route: "Cape to SE Queensland", road: "$220–300", sea: "$100–140", saving: "$100–170" },
   ];
+
+  const phases = [
+    { yr: "2027", label: "Prove the Route", col: "#40E0D0", capex: "$300–500K",
+      points: ["Charter 800–1,200 head vessel for the May–Nov muster season", "3–5 voyages Weipa to Townsville — Paniri cattle only", "Construct loading yards and ramp at Evans Landing, Weipa", "Rigorous data collection: per-head cost, welfare outcomes, emissions vs road", "Establish NQBP port access agreements"] },
+    { yr: "2028", label: "Partner Stations Join", col: "#DAA520", capex: "$3–8M",
+      points: ["Formalise equity partnership structure — stations buy in, not just book freight", "3–5 neighbouring Cape York stations as founding vessel partners", "Target 4,000–6,000 head/season; vessel economics strengthen with every partner", "Acquire southern backgrounding block within 100km of Townsville", "Begin carbon registration on backgrounding block"] },
+    { yr: "2029", label: "Own the Infrastructure", col: "#228B22", capex: "$2–5M",
+      points: ["Acquire or bareboat charter dedicated vessel 1,000–2,000 head ($2–5M secondhand)", "Corporate Carbon holds majority; partner stations hold equity proportional to committed head", "6,000–10,000 head/season; backhaul revenue (station supplies northbound)", "The vessel schedule becomes the Cape York muster calendar"] },
+    { yr: "2030–31", label: "The Platform Is Built", col: "#A0522D", capex: "Cash positive",
+      points: ["10,000–15,000 head/season; per-head cost below $40 to Townsville", "Evaluate Karumba as second loading point for Gulf-side stations", "Corporate Carbon is the indispensable logistics backbone for every station on the Peninsula", "Proof-of-concept established for the Cape York 2040 international export pitch"] },
+  ];
+
   return (
     <div className="cy-page">
-      <div className="cy-eyebrow">Phase Zero — The Founding Chapter</div>
-      <div className="cy-section-num" style={{ color: C.border }}>00</div>
-      <h1 className="cy-h1">Cape Passage.<br /><em>Bring the Infrastructure<br />to the Animal.</em></h1>
-      <p className="cy-body" style={{ maxWidth: 600, fontSize: 15 }}>
-        Cape York's cattle industry was built by drovers who moved stock on foot to ships in the Gulf. The road train replaced the drover but inherited the same logic: move the animal to the infrastructure. Cape Passage reverses that. Cape York 2040 eliminates the question entirely — process at source, export the product.
+      <div className="cy-eyebrow">Phase Zero — The Crown Jewel</div>
+      <div className="cy-section-num" style={{ color: "#1E2E26" }}>00</div>
+      <h1 className="cy-h1">The Sea Was Always<br /><em>the Answer.</em></h1>
+
+      <p className="cy-body" style={{ maxWidth: 640, fontSize: 16 }}>
+        The cattle are at the top of the Peninsula. The sea is right there. The distance to market by water is a fraction of the road. This should have been obvious decades ago. The reason it isn't the default is not a logistics problem — it is a coordination problem. And coordination problems have a precise solution.
       </p>
-      <div style={{ background: `linear-gradient(135deg, ${C.bgMid}, ${C.bg})`, border: `1px solid ${C.turquoise}44`, borderRadius: 14, padding: 22, marginBottom: 28 }}>
-        <div className="cy-eyebrow" style={{ marginBottom: 10 }}>The Two-Act Structure</div>
-        <div className="cy-grid2" style={{ gap: 20 }}>
-          <div>
-            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: C.turquoise, letterSpacing: "0.1em", marginBottom: 6 }}>ACT I — CAPE PASSAGE 2027–2031</div>
-            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 16, color: C.sand, marginBottom: 8 }}>Domestic platform. Coastal logistics. Ship south. Prove the model.</div>
-            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, color: C.muted }}>$6–14M self-funded</div>
+
+      <div style={{ background: "linear-gradient(135deg, #162019, #111A16)", border: "1px solid #40E0D044", borderRadius: 16, padding: 28, marginBottom: 36 }}>
+        <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Why It's Been Tried Before — And Why It Failed</div>
+        <p className="cy-body" style={{ marginBottom: 18 }}>
+          Coastal livestock shipping out of Cape York has been attempted. The economics were sound. The route worked. The vessel was ready. But stations that had committed head counts didn't deliver when the time came. The vessel sailed under-loaded. The economics collapsed. The operator couldn't sustain it.
+        </p>
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 20 }}>
+          <div style={{ borderLeft: "3px solid #9B2F1F", paddingLeft: 18 }}>
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#E07060", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 8 }}>The Failure Mode</div>
+            <p className="cy-body" style={{ margin: 0, fontSize: 13 }}>When stations are customers of a shipping service, they can walk away. A bad season, a late muster, a better offer from a road train — any of these can reduce a committed consignment to nothing. The vessel operator carries all the risk. The commitment is asymmetric and therefore fragile.</p>
           </div>
-          <div style={{ borderLeft: `1px solid ${C.border}`, paddingLeft: 20 }}>
-            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: C.gold, letterSpacing: "0.1em", marginBottom: 6 }}>ACT II — CAPE YORK 2040 2030–2040</div>
-            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 16, color: C.sand, marginBottom: 8 }}>International EPEZ. Weipa terminal. Flip north. Export direct to Asia.</div>
-            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, color: C.muted }}>$1B SPV — Federal + Rio Tinto + Paniri</div>
+          <div style={{ borderLeft: "3px solid #40E0D0", paddingLeft: 18 }}>
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#40E0D0", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 8 }}>The Structural Fix</div>
+            <p className="cy-body" style={{ margin: 0, fontSize: 13 }}>When stations are equity partners in the vessel, the incentive structure is entirely different. You don't walk away from infrastructure you own. The commitment is now symmetric — if the vessel sails under-loaded, the partner stations share the cost of that inefficiency. They fill it.</p>
           </div>
         </div>
       </div>
-      <div className="cy-eyebrow" style={{ marginBottom: 8 }}>Why Cape Passage Must Come First</div>
-      <div style={{ display: "flex", flexDirection: "column", gap: 8, marginBottom: 28 }}>
+
+      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>The Ownership Model — The Solution to the Coordination Problem</div>
+      <p className="cy-body" style={{ maxWidth: 640 }}>
+        Corporate Carbon owns the vessel outright or holds majority in a vessel-owning entity. Neighbouring Cape York stations are brought in as equity partners — not customers booking freight space, but co-owners of the infrastructure. Equity is proportional to committed head count. The vessel schedule becomes the muster calendar. The shipping operation becomes the backbone every station on the Peninsula depends on.
+      </p>
+
+      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 12, marginBottom: 36 }}>
         {[
-          { head: "It proves Weipa as a livestock port", body: "You cannot pitch a $1B international export zone without demonstrating you can load cattle at Weipa at all. Cape Passage validates the port, the infrastructure, the welfare outcomes, and the economics at $300–500K.", col: C.turquoise },
-          { head: "It builds the Rio Tinto relationship", body: "Weipa port is managed by NQBP. Rio Tinto is the dominant infrastructure operator. Cape Passage is the low-stakes entry point — a livestock loading arrangement at Evans Landing — before the far larger SPV conversation.", col: C.dirt },
-          { head: "It generates the carbon-logistics narrative", body: "70–80% transport emissions reduction is a material ACCU co-benefit differentiator. Institutional buyers applying Scope 3 thinking to offset portfolios need this data. Cape Passage generates it. Cape York 2040 deploys it at scale.", col: C.gold },
-          { head: "It creates the regional aggregation platform", body: "The entity that controls coastal livestock logistics out of Weipa becomes indispensable to every surviving Cape York cattle operation. This aggregation builds the cattle volume and stakeholder network Cape York 2040 requires.", col: C.green },
-        ].map((p, i) => (
-          <div key={i} className="cy-card" style={{ display: "flex", gap: 14, borderLeft: `3px solid ${p.col}`, borderRadius: "0 12px 12px 0" }}>
-            <div>
-              <div style={{ fontSize: 13, fontWeight: 600, color: C.sand, fontFamily: "'Sora', sans-serif", marginBottom: 4 }}>{p.head}</div>
-              <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>{p.body}</div>
-            </div>
+          { label: "Corporate Carbon", role: "Majority owner + operator", detail: "Holds controlling equity. Manages the vessel, the schedule, the port relationships, and the southern backgrounding block. Operating revenue from freight charges to partner stations.", col: "#40E0D0" },
+          { label: "Partner Stations", role: "Equity partners + committed supply", detail: "Cape York stations buy equity proportional to their committed annual head count. Equity gives them access to the vessel at cost. Walking away means forfeiting infrastructure they paid for.", col: "#DAA520" },
+          { label: "The Vessel", role: "Shared infrastructure — not a service", detail: "The ship is owned by the partnership, not chartered from an outsider. The schedule is set by the partnership. The economics improve with every additional partner station that joins.", col: "#228B22" },
+        ].map(p => (
+          <div key={p.label} className="cy-card" style={{ borderTop: `3px solid ${p.col}` }}>
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: p.col, letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 6 }}>{p.role}</div>
+            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 18, color: "#F5F0E1", marginBottom: 10 }}>{p.label}</div>
+            <p className="cy-body" style={{ margin: 0, fontSize: 13 }}>{p.detail}</p>
           </div>
         ))}
       </div>
+
+      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Why Shipping Is the Elegant Solution</div>
+      <div style={{ display: "flex", flexDirection: "column", gap: 10, marginBottom: 36 }}>
+        {[
+          { head: "The distance by sea is a fraction of the road", body: "Weipa to Townsville by sea is approximately 800km. The same journey by road train is 900km to the nearest processor — and up to 2,500km to southeast Queensland markets. The sea route doesn't just save money. It is simply the shorter path between two points that happen to be separated by water.", col: "#40E0D0" },
+          { head: "Marine freight is ten times more fuel efficient than road", body: "A triple road train burning 1–1.5 litres per kilometre over 2,000km consumes roughly 6,000–8,000 litres of diesel per load. A coastal vessel moving 1,000 head over the same sea distance burns a fraction of that per head. The emissions reduction is 70–80% per animal. This is not marginal — it is transformational for the carbon integrity of the whole portfolio.", col: "#228B22" },
+          { head: "Cattle arrive in better condition", body: "A 2–3 day sea voyage on a properly equipped livestock vessel is fundamentally different from 24–36 hours on a road train. Animals are stationary, sheltered, with continuous access to feed and water. Condition losses of 5–8% on long-haul road journeys are well documented. Cattle arriving by sea are in better shape, command better prices, and cost less to recover at the backgrounding block.", col: "#DAA520" },
+          { head: "Scheduling control returns to the producer", body: "Road train availability during the compressed muster window is a constant constraint — every station on the Peninsula is competing for the same limited fleet simultaneously. A vessel operating on a fixed schedule owned by the partnership means cattle move when they are ready, not when a truck becomes available.", col: "#87CEEB" },
+          { head: "The infrastructure moat is durable", body: "The capital and regulatory barriers to establishing a second coastal livestock operation out of Weipa are high enough to constitute a permanent competitive moat. The entity that builds this first controls the logistics backbone for every cattle station on Cape York. That position, once established, is extremely difficult to replicate.", col: "#A0522D" },
+        ].map((p, i) => (
+          <div key={i} className="cy-card" style={{ borderLeft: `4px solid ${p.col}`, borderRadius: "0 12px 12px 0" }}>
+            <div style={{ fontSize: 14, fontWeight: 600, color: "#F5F0E1", fontFamily: "'Sora', sans-serif", marginBottom: 8 }}>{p.head}</div>
+            <p className="cy-body" style={{ margin: 0 }}>{p.body}</p>
+          </div>
+        ))}
+      </div>
+
       <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Per-Head Economics: Road vs Sea</div>
-      <div style={{ overflowX: "auto", marginBottom: 28 }}>
+      <div style={{ overflowX: "auto", marginBottom: 36 }}>
         <table style={{ width: "100%", borderCollapse: "collapse", fontFamily: "'Sora', sans-serif" }}>
           <thead>
-            <tr style={{ borderBottom: `1px solid ${C.border}` }}>
-              {["Route", "Road Cost/Hd", "Sea Cost/Hd", "Saving/Hd"].map(h => (
-                <th key={h} style={{ padding: "8px 12px", textAlign: "left", fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.muted, letterSpacing: "0.1em", textTransform: "uppercase", fontWeight: 500 }}>{h}</th>
+            <tr style={{ borderBottom: "1px solid #1E2E26" }}>
+              {["Route", "Road Cost/Head", "Sea Cost/Head", "Saving/Head"].map(h => (
+                <th key={h} style={{ padding: "10px 14px", textAlign: "left", fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#9AADA4", letterSpacing: "0.08em", textTransform: "uppercase", fontWeight: 500 }}>{h}</th>
               ))}
             </tr>
           </thead>
           <tbody>
             {economics.map((r, i) => (
-              <tr key={i} style={{ borderBottom: `1px solid ${C.faint}` }}>
-                <td style={{ padding: "10px 12px", fontSize: 12, color: C.text }}>{r.route}</td>
-                <td style={{ padding: "10px 12px", fontSize: 12, color: C.muted, fontFamily: "'IBM Plex Mono', monospace" }}>{r.road}</td>
-                <td style={{ padding: "10px 12px", fontSize: 12, color: C.turquoise, fontFamily: "'IBM Plex Mono', monospace" }}>{r.sea}</td>
-                <td style={{ padding: "10px 12px", fontSize: 13, color: C.gold, fontFamily: "'DM Serif Display', serif" }}>{r.saving}</td>
+              <tr key={i} style={{ borderBottom: "1px solid #2A3D33" }}>
+                <td style={{ padding: "12px 14px", fontSize: 14, color: "#E8F0EB" }}>{r.route}</td>
+                <td style={{ padding: "12px 14px", fontSize: 13, color: "#9AADA4", fontFamily: "'IBM Plex Mono', monospace" }}>{r.road}</td>
+                <td style={{ padding: "12px 14px", fontSize: 13, color: "#40E0D0", fontFamily: "'IBM Plex Mono', monospace" }}>{r.sea}</td>
+                <td style={{ padding: "12px 14px", fontSize: 16, color: "#DAA520", fontFamily: "'DM Serif Display', serif" }}>{r.saving}</td>
               </tr>
             ))}
           </tbody>
         </table>
       </div>
-      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Five-Year Roadmap</div>
-      <div style={{ display: "flex", flexDirection: "column", gap: 8, marginBottom: 24 }}>
+
+      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Build Sequence</div>
+      <div style={{ display: "flex", flexDirection: "column", gap: 8, marginBottom: 36 }}>
         {phases.map((p) => (
-          <div key={p.yr} className="cy-card" style={{ borderLeft: `3px solid ${p.col}`, borderRadius: "0 12px 12px 0" }}>
-            <div style={{ display: "flex", gap: 14, alignItems: "flex-start", marginBottom: 10 }}>
+          <div key={p.yr} className="cy-card" style={{ borderLeft: `4px solid ${p.col}`, borderRadius: "0 12px 12px 0" }}>
+            <div style={{ display: "flex", gap: 16, alignItems: "flex-start" }}>
               <div style={{ flexShrink: 0 }}>
-                <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 24, color: p.col, lineHeight: 1 }}>{p.yr}</div>
-                <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.muted, letterSpacing: "0.06em", marginTop: 2 }}>{p.capex}</div>
+                <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 22, color: p.col, lineHeight: 1 }}>{p.yr}</div>
+                <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#9AADA4", marginTop: 4 }}>{p.capex}</div>
               </div>
               <div style={{ flex: 1 }}>
-                <div style={{ fontSize: 13, fontWeight: 600, color: C.sand, fontFamily: "'Sora', sans-serif", marginBottom: 8 }}>{p.label}</div>
-                <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
+                <div style={{ fontSize: 14, fontWeight: 600, color: "#F5F0E1", fontFamily: "'Sora', sans-serif", marginBottom: 10 }}>{p.label}</div>
+                <div style={{ display: "flex", flexDirection: "column", gap: 5 }}>
                   {p.points.map(pt => (
-                    <div key={pt} style={{ display: "flex", gap: 8, alignItems: "flex-start" }}>
-                      <div style={{ width: 4, height: 4, borderRadius: "50%", background: p.col, marginTop: 7, flexShrink: 0 }}></div>
-                      <div style={{ fontSize: 12, color: C.muted, lineHeight: 1.5, fontFamily: "'Sora', sans-serif" }}>{pt}</div>
+                    <div key={pt} style={{ display: "flex", gap: 10, alignItems: "flex-start" }}>
+                      <div style={{ width: 4, height: 4, borderRadius: "50%", background: p.col, marginTop: 8, flexShrink: 0 }}></div>
+                      <div style={{ fontSize: 13, color: "#9AADA4", lineHeight: 1.7, fontFamily: "'Sora', sans-serif" }}>{pt}</div>
                     </div>
                   ))}
                 </div>
@@ -286,18 +311,21 @@ function CapePassageView({ setView }) {
           </div>
         ))}
       </div>
-      <div className="cy-card cy-card-gold">
-        <div className="cy-eyebrow" style={{ color: C.gold }}>The Southern Backgrounding Block — Controlling the Last Mile</div>
-        <div className="cy-body">A Corporate Carbon backgrounding property within 100km of Townsville (5,000–15,000ha) turns the double-handling problem from a cost to absorb into an asset to control.</div>
-        <div className="cy-grid3" style={{ gap: 14 }}>
+
+      <div className="cy-card" style={{ borderColor: "#DAA52044" }}>
+        <div className="cy-eyebrow" style={{ color: "#DAA520" }}>The Southern Backgrounding Block — Closing the Last Mile</div>
+        <p className="cy-body" style={{ marginBottom: 16 }}>
+          Sea freight introduces additional load and unload events compared to a direct road train. The solution is not to optimise the port-to-paddock truck leg — it is to own it. A Corporate Carbon backgrounding property within 100km of Townsville turns the double-handling problem from a cost to absorb into an asset to control.
+        </p>
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 16 }}>
           {[
             { l: "Spelling facility", d: "Recovery paddocks for sea-freighted cattle before onward sale or feedlot entry" },
-            { l: "Backgrounding", d: "Weaners shipped south for growing out on improved pasture before feedlot finishing" },
-            { l: "Carbon project", d: "Soil carbon methodology on the backgrounding land — revenue from the land itself" },
+            { l: "Backgrounding block", d: "Weaners shipped south for growing out on improved pasture before feedlot finishing" },
+            { l: "Carbon project", d: "Soil carbon methodology on the land itself — revenue from the property, not just the cattle" },
           ].map(it => (
             <div key={it.l}>
-              <div style={{ fontSize: 12, fontWeight: 600, color: C.gold, marginBottom: 4, fontFamily: "'Sora', sans-serif" }}>{it.l}</div>
-              <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>{it.d}</div>
+              <div style={{ fontSize: 13, fontWeight: 600, color: "#DAA520", marginBottom: 6, fontFamily: "'Sora', sans-serif" }}>{it.l}</div>
+              <p className="cy-body" style={{ margin: 0, fontSize: 13 }}>{it.d}</p>
             </div>
           ))}
         </div>
@@ -342,7 +370,7 @@ function OverviewView({ setView }) {
               <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.muted }}>2027–2031 →</div>
             </div>
             <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 20, color: C.sand, marginBottom: 6 }}>Cape Passage</div>
-            <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>Coastal livestock shipping out of Weipa. Ship south to domestic markets. Prove the model. Build the port relationship. $6–14M self-funded.</div>
+            <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>The sea was always the answer. Tried before — failed due to a coordination problem, not a logistics one. The fix is ownership: Corporate Carbon owns the vessel, partner stations hold equity. You don't walk away from infrastructure you own.</div>
           </div>
           <div style={{ padding: 20, background: C.bgCard, cursor: "pointer" }}
             onClick={() => setView("strategy")}
@@ -486,7 +514,7 @@ function ProblemView() {
             { label: "Heat tolerance", desc: "Smaller frames reduce metabolic heat load. Better performance in 38°C + humidity conditions." },
             { label: "Tick resistance", desc: "Bos indicus-dominant genetics tolerate tick burden that devastates southern breeds." },
             { label: "Fertility at low inputs", desc: "Cape-adapted cows calve on minimal supplementation through the wet. No drylot feeding." },
-            { label: "Asian market fit", desc: "Indonesia and Vietnam want 300–400kg animals for live import. Cape cattle are ideal size." },
+            { label: "Indonesian feeder market fit", desc: "Indonesian feedlots import Australian cattle at around 280–350kg liveweight — Bos indicus feeder steers at 2–3 years of age. A 400kg mature cow produces exactly these steers at the right age and weight." },
             { label: "Genetic premium", desc: "Fertile, adapted genetic material commands $200–500/unit in SE Asian breeding programs." },
             { label: "Carbon per kg", desc: "Lower-input rearing yields better kg of CO2e per kg beef — a verifiable export premium." },
           ].map(it => (
@@ -603,7 +631,7 @@ function GeneticsView() {
       origin: "Malawi, Zambia, Mozambique",
       col: C.gold,
       weight: "280–360kg",
-      why: "The most heat-efficient small-frame cattle in Africa. Developed in the Rift Valley under conditions almost identical to Cape York — seasonal rainfall, laterite soils, poor dry-season pasture, high tick burden. Exceptional fertility. The Angoni proves that a 300–360kg animal can be productive, vigorous, and commercially valuable. Angoni semen is not yet available in Australia — this is a future import project requiring DAFF biosecurity clearance.",
+      why: "The most heat-efficient small-frame cattle in Africa. Developed in the Rift Valley under conditions almost identical to Cape York — seasonal rainfall, laterite soils, poor dry-season pasture, high tick burden. Exceptional fertility. The Angoni proves that a small-frame animal can be productive, vigorous, and commercially valuable on poor seasonal country. At 280–360kg mature weight it sits at the lower end of the Indonesian feeder import window. Angoni semen is not yet available in Australia — this is a future import project requiring DAFF biosecurity clearance.",
       traits: ["Smallest frame of the three — sets the size floor", "Disease tolerance including trypanosomiasis and tick fever", "Calves every 12 months on minimal nutrition", "Exceptional longevity — productive to 12+ years", "Future project — DAFF import application required"],
     },
     {
@@ -771,7 +799,7 @@ function GeneticsView() {
       <div className="cy-card" style={{ borderColor: C.gold + "44" }}>
         <div className="cy-eyebrow" style={{ color: C.gold }}>Why 400kg Is a Design Constraint, Not a Compromise</div>
         <div className="cy-body" style={{ margin: 0 }}>
-          An animal that reaches 400kg maturity on Cape York native pasture without supplementation is demonstrating exactly the efficiency this system requires — it is converting poor country into protein at a rate the country can sustain. An animal that requires supplementation to reach 500kg is a liability. It competes with the ecological system instead of integrating with it. The 400kg ceiling is the proof of ecological alignment. It is also, precisely, the weight that Indonesian and Vietnamese live import buyers want. The market and the ecology are the same answer.
+          An animal reaching 400kg mature weight on Cape York native pasture without supplementation is proving that the selection is working — it is converting poor seasonal country into protein at a rate the country can sustain. That is the ecological proof. The market proof is separate but complementary: Indonesian feedlots import Australian feeder cattle at an average of around 320kg liveweight — Bos indicus steers at 2 to 3 years of age, finished in Indonesian feedlots to 500–600kg. A cow with 400kg mature weight produces exactly these animals. The ecology and the market produce the same answer, but they are two distinct arguments — not one.
         </div>
       </div>
     </div>
@@ -1547,7 +1575,7 @@ function DiagnosisView({ setView }) {
     {
       label: "Asian protein demand",
       before: "Cape York cattle too small for the southern market",
-      after: "300–400kg cattle are precisely what Indonesia and Vietnam want for live breeding import",
+      after: "Indonesian feedlots import Australian feeder cattle at an average of ~320kg liveweight — Bos indicus steers at 2–3 years of age. A small-frame Cape York cow with 400kg mature weight produces exactly these animals.",
       col: C.turquoise,
     },
     {
@@ -1580,7 +1608,7 @@ function DiagnosisView({ setView }) {
     { label: "Wet-dry seasonality", liability: "Closes roads, stops mustering, shuts operations for 4 months", asset: "Natural production calendar. The dry season concentrates cattle and forces the annual processing event. No artificial forcing required.", col: C.turquoise },
     { label: "Sparse native pasture", liability: "Cannot support large-frame cattle at adequate condition without supplementation", asset: "Perfect selection pressure for small-frame efficient genetics. Cattle that survive and thrive here without supplement are the correct animal. The country is the breeding programme.", col: C.green },
     { label: "Remoteness", liability: "Transport costs consume the margin on the road to southern markets", asset: "Biosecurity moat. The distance that makes road transport uneconomic makes coastal shipping and direct export viable — and the isolation premium real.", col: C.gold },
-    { label: "Small-frame cattle", liability: "Below carcase weight thresholds for southern processors", asset: "Ideal weight for Indonesian and Vietnamese live import. Smaller frames have lower total maintenance requirements — more energy available for growth, lactation, and calf-rearing on sparse country.", col: C.dirt },
+    { label: "Small-frame cattle", liability: "Below carcase weight thresholds for southern processors", asset: "A 400kg mature cow produces steers that hit the Indonesian feeder import window (280–350kg) at 2–3 years of age — exactly what the market specifies. Smaller frames mean lower total maintenance cost, leaving more energy for growth, lactation, and calf-rearing on sparse country.", col: C.dirt },
     { label: "Low-input rearing", liability: "Low productivity per hectare by southern metrics", asset: "Low carbon intensity per kg of beef. Verifiable ACCU co-benefit. ESG premium embedded in every animal. And when cattle are well-adapted, they become the fine fuel manager the carbon project needs.", col: C.sky },
   ];
 
@@ -1661,7 +1689,7 @@ function DiagnosisView({ setView }) {
         </div>
         <div style={{ marginTop: 16, padding: "12px 16px", background: C.gold + "11", borderRadius: 8, border: `1px solid ${C.gold}33` }}>
           <div style={{ fontSize: 12, color: C.sand, fontFamily: "'Sora', sans-serif", lineHeight: 1.7 }}>
-            <strong style={{ color: C.gold, fontWeight: 600 }}>The resolution: </strong>Ecologically adapted small-frame cattle are efficient fine fuel converters. They graze more broadly, pick finer forage, and maintain condition on sparse post-burn country. They are not in conflict with the carbon programme — they are its management layer. The wrong cattle make the carbon project fragile. The right cattle make it self-reinforcing.
+            <strong style={{ color: C.gold, fontWeight: 600 }}>The resolution: </strong>Ecologically adapted small-frame cattle eat more per kilogram of bodyweight than large-frame animals — and by selecting for fertility, we select for the animals most willing and able to consume what the country provides. They convert fine fuel into production rather than leaving it to accumulate. They are not in conflict with the carbon programme — they are its management layer. The wrong cattle make the carbon project fragile. The right cattle make it self-reinforcing.
           </div>
         </div>
       </div>
@@ -1685,7 +1713,61 @@ function DiagnosisView({ setView }) {
         ))}
       </div>
 
-      <div className="cy-eyebrow" style={{ marginBottom: 16 }}>The Cape as the Star — Every Liability Revalued</div>
+      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>The Answer That Was Always There</div>
+
+      <div style={{ background: "linear-gradient(135deg, #0F4C3A55, #111A16)", border: "1px solid #40E0D066", borderRadius: 16, padding: 28, marginBottom: 48 }}>
+        <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 28, color: "#F5F0E1", lineHeight: 1.3, marginBottom: 16 }}>
+          The cattle are at the top of the Peninsula.<br />The sea is right there.
+        </div>
+        <p className="cy-body" style={{ marginBottom: 20, fontSize: 15 }}>
+          The distance from Weipa to Townsville by sea is approximately 800km. The same journey by road train is 900km to the nearest processor — and up to 2,500km to southeast Queensland. Marine freight is ten times more fuel efficient per tonne-kilometre than road. The cattle arrive in better condition. The cost saving is $40–170 per head. This should have been the obvious answer for decades.
+        </p>
+        <p className="cy-body" style={{ marginBottom: 24 }}>
+          It has been tried before. The economics were sound. The vessel was ready. It failed — not because of logistics, but because of a coordination problem. Stations that committed head counts didn't deliver. The vessel sailed under-loaded. The operator couldn't sustain it.
+        </p>
+
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16, marginBottom: 24 }}>
+          <div style={{ background: "#1a0a0a", border: "1px solid #9B2F1F44", borderRadius: 12, padding: 20 }}>
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#E07060", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 10 }}>Why It Failed</div>
+            <p className="cy-body" style={{ margin: 0, fontSize: 13 }}>When stations are customers of a shipping service, they can walk away. A bad season, a late muster, a better offer — any of it reduces a committed consignment to nothing. The vessel operator carries all the risk. The commitment is asymmetric and therefore fragile.</p>
+          </div>
+          <div style={{ background: "#0F4C3A33", border: "1px solid #40E0D044", borderRadius: 12, padding: 20 }}>
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#40E0D0", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 10 }}>The Fix</div>
+            <p className="cy-body" style={{ margin: 0, fontSize: 13 }}>Corporate Carbon owns the vessel. Neighbouring stations hold equity in it — proportional to their committed head count. When you own infrastructure, you don't walk away from it. The commitment problem dissolves because the incentive structure is entirely different. You fill what you own.</p>
+          </div>
+        </div>
+
+        <div style={{ borderTop: "1px solid #1E2E26", paddingTop: 20 }}>
+          <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#9AADA4", letterSpacing: "0.08em", textTransform: "uppercase", marginBottom: 12 }}>What this creates</div>
+          <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
+            {[
+              { label: "An infrastructure moat", detail: "The entity that owns the vessel controls the logistics backbone for every cattle station on Cape York. That position, once built, is extremely difficult to replicate." },
+              { label: "A carbon integrity breakthrough", detail: "70–80% transport emissions reduction per head is not marginal. It is the difference between a carbon portfolio that is internally consistent and one that generates credits on-station while shipping cattle via the most emissions-intensive route available." },
+              { label: "The proof-of-concept for Cape York 2040", detail: "You cannot walk into Canberra or Rio Tinto's boardroom asking for $1B to build an international export zone without first demonstrating you can move cattle through Weipa. Cape Passage does that — at $6–14M, before any sovereign capital is required." },
+            ].map(it => (
+              <div key={it.label} style={{ display: "flex", gap: 14, alignItems: "flex-start" }}>
+                <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#40E0D0", marginTop: 8, flexShrink: 0 }}></div>
+                <div>
+                  <span style={{ fontSize: 14, fontWeight: 600, color: "#F5F0E1", fontFamily: "'Sora', sans-serif" }}>{it.label} — </span>
+                  <span style={{ fontSize: 14, color: "#9AADA4", lineHeight: 1.75, fontFamily: "'Sora', sans-serif" }}>{it.detail}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div style={{ marginTop: 20 }}>
+          <button
+            onClick={() => setView("passage")}
+            style={{ padding: "11px 24px", background: "#40E0D022", border: "1px solid #40E0D066", borderRadius: 10, color: "#40E0D0", fontSize: 13, cursor: "pointer", fontFamily: "'Sora', sans-serif", fontWeight: 600 }}
+            onMouseEnter={e => { e.currentTarget.style.background = "#40E0D033"; e.currentTarget.style.borderColor = "#40E0D0"; }}
+            onMouseLeave={e => { e.currentTarget.style.background = "#40E0D022"; e.currentTarget.style.borderColor = "#40E0D066"; }}>
+            Cape Passage — full detail →
+          </button>
+        </div>
+      </div>
+
+            <div className="cy-eyebrow" style={{ marginBottom: 16 }}>The Cape as the Star — Every Liability Revalued</div>
       <p className="cy-body" style={{ maxWidth: 640, marginBottom: 16 }}>
         The Cape was never the obstacle. The framework was. In a system designed around the Cape's actual conditions — not imposed from the south — every supposed liability is a structural advantage.
       </p>
@@ -1743,7 +1825,7 @@ function PathSelector({ setView }) {
       col: C.sky,
       colDim: C.sky + "22",
       border: C.sky + "66",
-      desc: "The founding chapter. Coastal livestock logistics out of Weipa to domestic southern markets. Proof of concept, port relationship, and carbon-logistics narrative — self-funded, first voyage May 2027.",
+      desc: "Coastal shipping out of Weipa to southern markets — owned infrastructure, not a charter service. Partner stations hold equity in the vessel. The commitment problem that killed previous attempts is solved by ownership structure.",
       stats: [
         { v: "$6–14M", l: "Self-funded" },
         { v: "2027", l: "First voyage" },
