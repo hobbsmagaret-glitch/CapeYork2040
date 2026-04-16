@@ -54,10 +54,10 @@ GENETIC MATERIAL STATUS: Boran semen — already in Australia, crossing can comm
 HERD PATHWAY: 50,000 (2025) → 55,000 (2027, culled) → 75,000 (2030, F1 entering) → 110,000 (2034, F2 50% African) → 135,000 (2038, composite stabilised) → 150,000 (2040, full ecological adaptation).
 
 EXPORT STREAMS (targets by 2035):
-- Live cattle: 90,000 head/yr, sea bulk, CYFER tags + trace ID
-- Boxed ecological beef: 30,000 MT/yr, reefer container, cold chain + CYFER QR
-- Genetic material: 5,000 units/yr, air + sea cryo, cryo registry + CYFER
-- Ecological credits: 350,000-400,000 tCO2e/yr, digital export, land ledger + CYFER
+- Live cattle: 90,000 head/yr, sea bulk, PFES tags + trace ID
+- Boxed ecological beef: 30,000 MT/yr, reefer container, cold chain + PFES QR
+- Genetic material: 5,000 units/yr, air + sea cryo, cryo registry + PFES
+- Ecological credits: 350,000-400,000 tCO2e/yr, digital export, land ledger + PFES
 
 WEIPA TERMINAL: Bonded livestock zone 500-800 head/day. Cold chain hub 5,000 pallet capacity dual-temp. Cryo certification lab. Digital trade deck (carbon + biodiversity credit ledger). Solar + battery microgrid, black-start capable. Modular truck corridors to Holroyd and Watson.
 
@@ -65,9 +65,9 @@ CAPITAL ($1B AUD): Weipa terminal $400M, road + logistics $200M, cold chain + en
 
 MARKETS: Indonesia (food security mandate, breeding contracts), Vietnam (boxed beef + genetic material), Philippines (beef + labour exchange), South Korea (ESG buyers, premium chilled beef).
 
-CYFER: Cape York Fertility and Ecology Register — proprietary verification system covering all four export streams.
+PFES: Paniri Fertility + Ecology Standard — proprietary verification system covering all four export streams.
 
-REGULATORY: QLD Agricultural Export Precinct designation, Australian Border Force bonded zone certification, DAFF biosecurity clearance, CYFER ISO registration, UN/OECD Climate-Aligned Export Pilot Zone, DFAT embedding in Indonesia-Australia CEPA and Vietnam FTA.
+REGULATORY: QLD Agricultural Export Precinct designation, Australian Border Force bonded zone certification, DAFF biosecurity clearance, PFES ISO registration, UN/OECD Climate-Aligned Export Pilot Zone, DFAT embedding in Indonesia-Australia CEPA and Vietnam FTA.
 
 CAPE PASSAGE (PHASE ZERO, 2027-2031): Cape Passage is a coastal livestock shipping operation using the Port of Weipa (Evans Landing / Humbug Wharf, managed by NQBP) to move cattle by sea to southern Australian markets. It is the proof-of-concept that makes Cape York 2040 fundable. Corporate Carbon's Cape York portfolio: Watson River, Holroyd River, Crystalvale, Yarraden, Merluna — 600,000+ ha, 6,000-8,000 head carrying capacity. Current road transport cost: $150-300/head over 900-2,500km, representing up to 40% of market price. Sea cost: $50-140/head. Annual saving: $150-350K. Transport emissions reduction: 70-80% (130-180kg CO2/head road vs 35-40kg/head sea). Cape Passage phases: 2027 seasonal charter ($300-500K infrastructure), 2028 regional aggregation + southern backgrounding block near Townsville ($3-8M), 2029 dedicated vessel ($2-5M), 2030 10,000-15,000 head/season platform. The entity that controls Weipa coastal logistics becomes the indispensable infrastructure provider for every remaining Cape York cattle operation — a platform, not a service. Cape Passage ships south to domestic markets. Cape York 2040 flips the direction: process at Weipa, ship north to Asia. Cape Passage builds the Weipa port relationship, the operational credibility, the cattle base, and the carbon-logistics integrity narrative that makes the international EPEZ pitch credible to government and Rio Tinto.
 
@@ -85,72 +85,13 @@ GOVERNANCE + CAPITAL STRUCTURE (REVISED): The $1B total cannot be raised through
 
 2. RIO TINTO — infrastructure contribution valued as equity or concessional lease. Rio Tinto owns and operates the Weipa port and all supporting infrastructure (power, accommodation villages, roads). You cannot build at Weipa without them. They get: diversification narrative for Weipa tenure, shared infrastructure utilisation, stronger social licence with Wik and Wik-Mungkan traditional owners, positioning as enabler of northern Australia's next economy rather than purely extractive operator.
 
-3. PANIRI AGRICULTURAL CO. — operating partner and IP holder. Contributes CYFER standard, cattle genetics programme, market relationships, operational design. Holds the ecological IP and the export standard.
+3. PANIRI AGRICULTURAL CO. — operating partner and IP holder. Contributes PFES standard, cattle genetics programme, market relationships, operational design. Holds the ecological IP and the export standard.
 
 SEQUENCING: Federal + Rio Tinto alignment must come first. Sovereign wealth co-investors (Singapore GIC, Korea NPS, UAE sovereign funds) follow sovereign signal — they don't lead it. Once Canberra and Rio Tinto are committed, the co-investor tier is straightforward. The founding triangle de-risks the entire raise.
 
 TRADITIONAL OWNER ALIGNMENT: Wik and Wik-Mungkan peoples hold native title over significant Cape York country. Their free, prior and informed consent is not optional — it is a precondition. The land use framework must be co-designed, not consulted. This is both a legal and a commercial imperative.
 
 BLACK MAT HOLDINGS: Cape York 2040 is one of three businesses under Black Mat Holdings Co. The others are TerraForm Earth (land restoration arbitrage) and SheepDog (autonomous drone cattle management). SheepDog's drone infrastructure supports Cape York's cattle monitoring. TerraForm's ecological manufacturing builds the cattle base. Cape York exports the output.
-
-EXIT STRUCTURE (DUAL-TRACK):
-Track A — Infrastructure exit at Year 12-15: Weipa terminal, vessel fleet, and cold chain infrastructure sold to a Macquarie-style infrastructure fund or major Asian sovereign food company (Korea KEPCO Food, Temasek food portfolio). Target 12-15x EBITDA multiple. Sovereign wealth co-investors hold right of first refusal with a pre-agreed 1.8x invested capital floor.
-Track B — IP retention: CYFER certification standard and genetic composite IP are NOT sold. Retained by Paniri/Black Mat Holdings as an ongoing royalty engine. Infrastructure buyer gets CYFER network access. Paniri keeps the toll gate permanently.
-
-FEDERAL MECHANISM (SPECIFIED):
-- NAIF concessional debt: $250M, secured against terminal asset and export revenue, below-market rate
-- NRF equity: $150M, patient capital at CPI+3% minimum, 15-year horizon, independent mandate
-- QLD government co-investment: $50M, political hedge — QLD advocates for project independently of federal government changes
-- Political protection: NAIF debt is locked to asset not political will; NRF has independent mandate; QLD is a third sovereign advocate. No single federal political change can unwind the structure.
-
-RIO TINTO COMMERCIAL TERMS (SPECIFIED):
-25-year concessional infrastructure lease valued at $250M. Not vague equity contribution. Rio Tinto receives: 25% SPV founding equity stake proportional to lease value, annual lease revenue at agreed rate, option to convert to cash at pre-agreed exit multiple.
-
-INDONESIAN POLICY RISK (MITIGATIONS):
-Risk: erratic import permit regime, food self-sufficiency agenda. Three mitigations: (1) CYFER product positioned as breeding genetics not commodity feedlot — immune to feedlot permit freezes; Indonesia's own 3% breeding import requirement creates structural demand. (2) Indonesian exposure capped at ≤40% of live cattle volume in base case — four market diversification. (3) DFAT bilateral embedding via Indonesia-Australia CEPA provides government-to-government protection above commercial permit level.
-
-REVENUE BASE CASE (model-verified, AUD):
-Five streams — four operational, one toll infrastructure:
-
-1. LIVE CATTLE — $98.7M (2035 base). 90,000 head/yr. $900/head base price, +2%/yr. Sea bulk from Weipa.
-2. BOXED ECOLOGICAL BEEF — $237.7M (2035 base). 30,000 MT/yr. $6,500/MT base, +2%/yr. Reefer container.
-3. GENETIC MATERIAL — $8.64M (2035 base). 5,000 units/yr. $800/unit base (2031), +8%/yr — highest escalation rate in the model. By 2040: $12.69M. Highest-margin, lowest-audit-cost stream.
-4. CYFER TOLL — $4.13M (2035). $25/head verification levy, +1%/yr. Grows to $5.31M by 2040. Phase III adds a second layer: sub-licensing royalties from other regions adopting the CYFER standard — NOT yet in model, upside only.
-5. ECOLOGICAL CREDITS — separate from CYFER toll. Carbon and biodiversity credits. AUD $12–24M/yr estimated range (not yet in primary model).
-
-TOTAL 2035 BASE CASE: $349.2M/yr (live $98.7M + boxed $237.7M + genetics $8.64M + CYFER toll $4.13M)
-
-REVENUE RAMP (model-verified):
-- 2025–2030: CYFER toll only. $1.25M → $2.12M. Zero operational revenue.
-- 2031: First operational season. $18.2M total (live $15.2M + genetics $0.63M + toll $2.40M).
-- 2032: $83.1M. Boxed beef comes online (5,000 MT).
-- 2033: $166.7M. Scale phase.
-- 2034: $266.1M. Live 80,000 head, boxed 22,000 MT.
-- 2035: $349.2M. Full capacity flip — the mechanical step-change.
-- 2036–2040: $356.8M → $389.5M. Steady state + escalation.
-
-2035 STEP-CHANGE MECHANICS: The $83M jump (2034→2035, +31%) is driven by herd dynamics, not assumptions. Steer extraction rate flips 85%→97%. Cull cow rate 12%→28%. Offtake nearly doubles (32,051 head in 2034 → 54,956 in 2035). This is structural — the Phase III extraction mode is a population dynamics threshold, not a forecast.
-
-BEEF IS THE FLOOR: Live cattle + boxed beef = ~96% of operating revenue at 2035. Beef revenue ramps $0 → $336M from 2031→2035. Predictable, scalable, anchored to herd growth. Genetics and CYFER toll are the margin story above the floor.
-
-PHASE III CHARACTER SHIFT (2035+): From 2035, Cape York 2040 stops being a cattle business and becomes a standards infrastructure business. CYFER toll converts from operational fee to payment rail. Sub-licensing royalties from other ecological trade regions adopting the standard are the second Phase III revenue layer. The genetics stream — at +8%/yr escalation — continues compounding independent of terminal throughput.
-
-HERD DYNAMICS (EPEZ partner herd, model-verified):
-- 2025: 50,000 → 54,441 (closing)
-- 2030: 80,818 → 90,422
-- 2034: 130,760 → 149,439 — MODEL EXCEEDS TARGET (target was 110,000)
-- 2035: 149,439 → 154,020. Offtake 54,956 (extraction flip year)
-- 2040: 183,022 → 193,551 — MODEL EXCEEDS TARGET (target was 150,000)
-
-PANIRI OWN-HERD (genetics hub):
-- 2031: 18,114 head, 10 AI bulls, 500 exported units
-- 2035: 33,940 head, 17 AI bulls, 5,000 exported units
-- 2040: 80,983 head, 25 AI bulls, 5,000 exported units
-
-NOMENCLATURE: The verification standard is the Cape York Fertility and Ecology Register (CYFER). Earlier documents may reference CYFER (Cape York Fertility and Ecology Register) — these are the same system. CYFER is the current name and the correct term to use.
-
-OPERATOR CONTINUITY PROTECTIONS:
-IP held in separate HoldCo within SPV. Key person provisions with succession plans. SPV board step-in rights after two missed seasonal milestones. Paniri required to maintain minimum 5% equity stake for duration of operating contract.
 
 Be direct, precise, and strategic. No fluff. Speak like you're briefing a sovereign wealth fund.`;
 
@@ -218,7 +159,6 @@ const TABS = [
   ["seasonal", "Seasonal Model"],
   ["genetics", "Cattle Genetics"],
   ["exports", "Export Streams"],
-  ["financials", "Financial Model"],
   ["terminal", "Weipa Terminal"],
   ["markets", "Markets"],
   ["capital", "Capital"],
@@ -270,7 +210,7 @@ function CapePassageView({ setView }) {
       <h1 className="cy-h1">The Sea Was Always<br /><em>the Answer.</em></h1>
 
       <p className="cy-body" style={{ maxWidth: 640, fontSize: 16 }}>
-        The cattle are at the top of the Peninsula. The sea is right there. Weipa to Townsville by water is 800km — a fraction of the 900–2,500km road haul that currently defines the industry's margin. This should have been the obvious answer for decades. It has been tried. It failed — not because the economics were wrong, but because the ownership structure was wrong. Stations that committed cattle didn't deliver. The vessel sailed under-loaded. The economics collapsed. So the question isn't whether coastal shipping works. It's why it failed before, and what structure prevents it from failing again.
+        The cattle are at the top of the Peninsula. The sea is right there. The distance to market by water is a fraction of the road. This should have been obvious decades ago. The reason it isn't the default is not a logistics problem — it is a coordination problem. And coordination problems have a precise solution.
       </p>
 
       <div style={{ background: "linear-gradient(135deg, #162019, #111A16)", border: "1px solid #40E0D044", borderRadius: 16, padding: 28, marginBottom: 36 }}>
@@ -408,7 +348,7 @@ function OverviewView({ setView }) {
       <div className="cy-section-num">00</div>
       <h1 className="cy-h1">The World's First<br /><em>Ecological Protein</em><br />Export Zone</h1>
       <p className="cy-body" style={{ maxWidth: 580, fontSize: 15 }}>
-        Cape York Peninsula has been running cattle for 150 years. It sits inside the world's most important emerging protein trade corridor. It has deepwater port access at Weipa, a seasonal production calendar that forces processing discipline, and country that selects for the most fertility-efficient cattle on the continent. It should be one of the great protein-producing regions of the Indo-Pacific. It isn't. The herd has contracted from 150,000 head to 50,000. The industry is structurally loss-making. But not because the country failed — because the wrong framework was applied to it. What follows is the correct one.
+        Cape York's remoteness, its small-frame cattle, and its seasonal constraints are not problems. They are structural advantages — if you design the system around them instead of fighting the southern model.
       </p>
 
       <div className="cy-grid4" style={{ marginBottom: 24 }}>
@@ -462,7 +402,7 @@ function OverviewView({ setView }) {
       <div className="cy-grid3">
         {[
           { id: "passage", label: "Cape Passage — Phase Zero", col: C.sky, desc: "The coastal logistics proof-of-concept that makes the EPEZ fundable. First voyage May 2027." },
-          { id: "exports", label: "Five Export Streams", col: C.turquoise, desc: "Live cattle, boxed beef, genetic material, ecological credits, and CYFER toll. All verified under CYFER." },
+          { id: "exports", label: "Four Export Streams", col: C.turquoise, desc: "Live cattle, boxed beef, genetic material, and ecological credits. Verified under PFES." },
           { id: "profitability", label: "Profitability Thesis", col: C.gold, desc: "Stop the bleeding. Generate revenue. Compound. The three-act case for long-term extractive return." },
           { id: "governance", label: "SPV Architecture", col: "#9AADA4", desc: "Federal Government + Rio Tinto as infrastructure de-riskers. Sovereign wealth follows signal." },
         ].map(c => (
@@ -491,14 +431,14 @@ function StrategyView({ setView }) {
     { step: "01", label: "Cape Passage", sub: "2027–2031", desc: "Prove coastal logistics. Own the Weipa port relationship. Generate the carbon-logistics data. $6–14M.", col: C.sky, view: "passage" },
     { step: "02", label: "SPV Formation", sub: "2028–2030", desc: "Federal Government + Rio Tinto + Paniri founding triangle aligned. Sovereign wealth co-investors follow.", col: C.gold, view: "governance" },
     { step: "03", label: "EPEZ Terminal", sub: "2030–2035", desc: "Weipa terminal built on proven infrastructure. First sovereign trade contracts. Flip from south to north.", col: C.turquoise, view: "terminal" },
-    { step: "04", label: "Full Export", sub: "2035–2040", desc: "Five export streams at target volume. CYFER standard licensed globally. $349M revenue. Cape York recognised as world model.", col: C.dirt, view: "phases" },
+    { step: "04", label: "Full Export", sub: "2035–2040", desc: "Four export streams at target volume. PFES licensed globally. Cape York recognised as world model.", col: C.dirt, view: "phases" },
   ];
   return (
     <div className="cy-page">
       <div className="cy-eyebrow">Strategic Context</div>
       <div className="cy-section-num">01</div>
       <h1 className="cy-h1">Why Weipa.<br />Why Now.</h1>
-      <p className="cy-body" style={{ maxWidth: 620 }}>The framework the Cape York industry operates under was built for a world where Asian protein demand was domestic, carbon had no price, ESG capital had no mandate, and southern intensive production had no climate vulnerability. None of those conditions hold any longer. Four structural forces have shifted simultaneously — and the project is designed around all four, not one.</p>
+      <p className="cy-body" style={{ maxWidth: 560 }}>Four structural forces are converging. One sequenced plan to capture all of them.</p>
 
       <div className="cy-eyebrow" style={{ marginBottom: 10 }}>The Sequencing Logic</div>
       <div style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)", gap: 8, marginBottom: 28 }}>
@@ -606,7 +546,7 @@ function SeasonalView() {
   };
   const offseason = [
     "Ecological credit packaging + verification",
-    "CYFER data audit and reporting cycles",
+    "PFES data audit and reporting cycles",
     "Contract administration for next surge",
     "Workforce training and credentialing",
     "Infrastructure maintenance and upgrade",
@@ -645,7 +585,7 @@ function SeasonalView() {
       <div className="cy-grid2" style={{ marginBottom: 20 }}>
         <div className="cy-card cy-card-turq">
           <div className="cy-eyebrow">Operational Season — Apr to Nov</div>
-          <div className="cy-body">Cattle movement from Holroyd and Watson. Processing surge October–November. Live export loading. Container freight booking. CYFER verification in parallel.</div>
+          <div className="cy-body">Cattle movement from Holroyd and Watson. Processing surge October–November. Live export loading. Container freight booking. PFES verification in parallel.</div>
           <div style={{ display: "flex", flexDirection: "column", gap: 6 }}>
             {["500–800 head/day peak throughput", "Reefer containers loaded weekly", "Live export vessels monthly block", "Cryo lab active for genetic export"].map(s => (
               <div key={s} style={{ display: "flex", gap: 8, alignItems: "flex-start" }}>
@@ -707,9 +647,9 @@ function GeneticsView() {
   ];
 
   const crossProg = [
-    { gen: "Gen 0", yr: "2025–2027", desc: "Current herd assessment. Baseline CYFER tagging. Cull for frame, fertility, tick score. Retain smallest, most fertile females. Boran and Mashona semen already in Australia — crossing can commence. Begin DAFF biosecurity application for Angoni semen (Malawi/Zambia) as a future phase.", col: C.muted, pct: 0 },
+    { gen: "Gen 0", yr: "2025–2027", desc: "Current herd assessment. Baseline PFES tagging. Cull for frame, fertility, tick score. Retain smallest, most fertile females. Boran and Mashona semen already in Australia — crossing can commence. Begin DAFF biosecurity application for Angoni semen (Malawi/Zambia) as a future phase.", col: C.muted, pct: 0 },
     { gen: "Gen 1", yr: "2027–2030", desc: "First African semen used over selected Cape York cows. F1 progeny: ~25% African blood. Measure frame weight, calving rate, tick score, pasture conversion at weaning. Begin selecting F1 females for second cross.", col: C.dirt, pct: 25 },
-    { gen: "Gen 2", yr: "2030–2034", desc: "F1 females back-crossed to African bulls. F2 progeny: ~50% African blood. This is the critical generation — the animal that must prove the ecological thesis on Cape York country. Full CYFER performance tracking begins.", col: C.gold, pct: 50 },
+    { gen: "Gen 2", yr: "2030–2034", desc: "F1 females back-crossed to African bulls. F2 progeny: ~50% African blood. This is the critical generation — the animal that must prove the ecological thesis on Cape York country. Full PFES performance tracking begins.", col: C.gold, pct: 50 },
     { gen: "Gen 3", yr: "2034–2038", desc: "Stabilise the composite. Select F2 animals that hit the target phenotype — 380–400kg at maturity, >90% calving rate, Class 1–2 tick score, no supplementation required. Begin closed herd breeding for genetic integrity.", col: C.turquoise, pct: 62 },
     { gen: "Target", yr: "2038–2040", desc: "Cape York Ecological Composite — 50%+ African (Boran/Angoni/Mashona blend), remainder Cape-adapted Bos indicus. Sovereign genetic repository held at Weipa Cryo Lab. Export genetic material to SE Asian breeding programmes.", col: C.green, pct: 75 },
   ];
@@ -717,10 +657,10 @@ function GeneticsView() {
   const herdPath = [
     { yr: "2025", head: "50K", note: "Current base — baseline audit" },
     { yr: "2027", head: "55K", note: "Cull for frame + fertility" },
-    { yr: "2030", head: "90K", note: "F1 African crosses entering herd" },
-    { yr: "2034", head: "149K", note: "F2 — 50%+ African blood. Model exceeds 110K target." },
-    { yr: "2038", head: "168K", note: "Composite stabilised. Closed herd breeding." },
-    { yr: "2040", head: "193K", note: "Full ecological adaptation. Model exceeds 150K target." },
+    { yr: "2030", head: "75K", note: "F1 African crosses entering herd" },
+    { yr: "2034", head: "110K", note: "F2 — 50% African blood" },
+    { yr: "2038", head: "135K", note: "Composite stabilised" },
+    { yr: "2040", head: "150K", note: "Full ecological adaptation" },
   ];
 
   return (
@@ -900,20 +840,19 @@ function ExportsView() {
   const streams = [
     {
       label: "Live Cattle", vol: "90,000 head/yr", col: C.dirt, icon: "🐂",
-      mode: "Sea — bulk livestock vessel", verify: "CYFER tags + trace ID",
+      mode: "Sea — bulk livestock vessel", verify: "PFES tags + trace ID",
       economics: [
-        { l: "Price per head — 2025 base", v: "AUD $900" },
-        { l: "Price per head — 2035 (escalated)", v: "AUD $1,097" },
-        { l: "Gross revenue (2035)", v: "AUD $98.7M/yr" },
+        { l: "Price per head (Indonesia)", v: "AUD $650–900" },
+        { l: "Gross revenue", v: "AUD $58–81M/yr" },
         { l: "Freight (Weipa → Jakarta)", v: "~$80–100/head" },
-        { l: "Net margin (est.)", v: "AUD $800–950/head" },
+        { l: "Net margin (est.)", v: "AUD $400–600/head" },
       ],
-      detail: "Indonesian food security mandates create captive demand for fertility-verified, traceable live cattle. Breeding contracts add a recurrence premium — buyers return for replenishment. CYFER tagging provides the traceability layer required for bilateral regulatory pre-approval.",
+      detail: "Indonesian food security mandates create captive demand for fertility-verified, traceable live cattle. Breeding contracts add a recurrence premium — buyers return for replenishment. PFES tagging provides the traceability layer required for bilateral regulatory pre-approval.",
     },
     {
       label: "Boxed Ecological Beef", vol: "30,000 MT/yr", col: C.turquoise, icon: "📦",
       mode: "Reefer container — chilled + frozen",
-      verify: "Cold chain + CYFER QR code",
+      verify: "Cold chain + PFES QR code",
       economics: [
         { l: "Chilled premium (S. Korea/Vietnam)", v: "AUD $8–12/kg" },
         { l: "Frozen standard", v: "AUD $5–7/kg" },
@@ -925,41 +864,26 @@ function ExportsView() {
     {
       label: "Genetic Material", vol: "5,000 units/yr", col: C.green, icon: "🧬",
       mode: "Air + sea — cryo certified",
-      verify: "Cryo registry + CYFER certification",
+      verify: "Cryo registry + PFES certification",
       economics: [
-        { l: "Price base (2031)", v: "AUD $800/unit" },
-        { l: "Escalation", v: "+8%/yr — highest in model" },
-        { l: "2035 revenue", v: "AUD $8.64M (5,000 units)" },
-        { l: "2040 revenue", v: "AUD $12.69M (compounding)" },
+        { l: "Semen straws", v: "AUD $200–350/unit" },
+        { l: "Embryos", v: "AUD $800–1,500/unit" },
+        { l: "Gross revenue (blended)", v: "AUD $1.5–7.5M/yr" },
         { l: "Cryo lab opex", v: "Low — fixed cost" },
       ],
-      detail: "Cape-adapted composite genetics command premium pricing in SE Asian breeding programs. Indonesia's national breeding upgrade program is an active off-take candidate. At +8%/yr price escalation — four times the rate of live cattle or boxed beef — genetics is the margin compressor in reverse. Capital-light, non-perishable, immune to live export permit volatility. The cryo certification lab at Weipa is the only sovereign-grade facility of this type north of Townsville.",
+      detail: "Cape-adapted composite genetics command premium pricing in SE Asian breeding programs. Indonesia's national breeding upgrade program is an active off-take candidate. The cryo certification lab at Weipa is the only sovereign-grade facility of this type north of Townsville.",
     },
     {
       label: "Ecological Credits", vol: "350–400K tCO2e/yr", col: C.sky, icon: "🌿",
       mode: "Digital export — instantaneous",
-      verify: "Land ledger + CYFER system",
+      verify: "Land ledger + PFES system",
       economics: [
         { l: "Carbon credit (ACCU equivalent)", v: "AUD $35–60/t" },
         { l: "Biodiversity + methane stacking", v: "+15–20% premium" },
         { l: "Gross revenue", v: "AUD $12–24M/yr" },
         { l: "Verification cost", v: "~AUD $3–5/t" },
       ],
-      detail: "Carbon from extensive low-input Cape York pastoral country is verifiable under ERF Soil Carbon + vegetation methods. Biodiversity and methane credits can be stacked under the CYFER bundle. Digital export requires no physical logistics. ESG-driven sovereign buyers in South Korea and Singapore are primary targets for long-term offtake.",
-    },
-    {
-      label: "CYFER Toll", vol: "$25/head · +1%/yr", col: C.gold, icon: "⚙️",
-      mode: "Verification levy — all streams",
-      verify: "CYFER registry",
-      economics: [
-        { l: "Toll rate (base)", v: "$25/head verified" },
-        { l: "2031 revenue", v: "AUD $2.40M" },
-        { l: "2035 revenue", v: "AUD $4.13M" },
-        { l: "2040 revenue", v: "AUD $5.31M" },
-        { l: "Escalation", v: "+1%/yr (model-locked)" },
-        { l: "Phase III uplift", v: "Sub-licensing royalties (not yet modelled)" },
-      ],
-      detail: "The CYFER toll is payment rail infrastructure, not a service fee. Every head of ecological protein exiting Cape York under verified credentials pays a per-head levy. No operator can export on equivalent terms without licensing the standard. Phase III converts this into a sub-licensing royalty engine as other ecological trade regions adopt CYFER — a second revenue layer not yet captured in the base model.",
+      detail: "Carbon from extensive low-input Cape York pastoral country is verifiable under ERF Soil Carbon + vegetation methods. Biodiversity and methane credits can be stacked under the PFES bundle. Digital export requires no physical logistics. ESG-driven sovereign buyers in South Korea and Singapore are primary targets for long-term offtake.",
     },
   ];
   const s = streams[sel];
@@ -967,8 +891,8 @@ function ExportsView() {
     <div className="cy-page">
       <div className="cy-eyebrow">Export Streams</div>
       <div className="cy-section-num">05</div>
-      <h1 className="cy-h1">Five Streams.<br />One Standard.</h1>
-      <p className="cy-body" style={{ maxWidth: 560 }}>All verified under the Cape York Fertility and Ecology Register (CYFER). Targets by 2035. Total modelled revenue: <strong style={{color: C.turquoise}}>$349.2M/yr</strong>.</p>
+      <h1 className="cy-h1">Four Streams.<br />One Standard.</h1>
+      <p className="cy-body" style={{ maxWidth: 560 }}>All verified under the Paniri Fertility + Ecology Standard (PFES). Targets by 2035.</p>
 
       <div className="cy-grid4" style={{ marginBottom: 20 }}>
         {streams.map((st, i) => (
@@ -1003,10 +927,10 @@ function ExportsView() {
 
 function TerminalView() {
   const zones = [
-    { label: "Bonded Livestock Zone", detail: "500–800 head/day throughput. Lairage, veterinary inspection, CYFER tagging and trace activation. Loading into bulk livestock vessels via covered race system.", col: C.dirt },
-    { label: "Cold Chain Hub", detail: "5,000 pallet capacity. Dual-temperature zones — chilled (0–4°C) and frozen (−18°C). Integrated CYFER QR printing for reefer container tracking.", col: C.turquoise },
-    { label: "Cryo Certification Lab", detail: "Semen and embryo processing, storage, and export certification. Only sovereign-grade cryo facility north of Townsville. CYFER registered and ISO pathway active.", col: C.green },
-    { label: "Digital Trade Deck", detail: "Carbon and biodiversity credit ledger. Integrates with CYFER land ledger for real-time verification. Digital export clearance for ecological credit buyers.", col: C.sky },
+    { label: "Bonded Livestock Zone", detail: "500–800 head/day throughput. Lairage, veterinary inspection, PFES tagging and trace activation. Loading into bulk livestock vessels via covered race system.", col: C.dirt },
+    { label: "Cold Chain Hub", detail: "5,000 pallet capacity. Dual-temperature zones — chilled (0–4°C) and frozen (−18°C). Integrated PFES QR printing for reefer container tracking.", col: C.turquoise },
+    { label: "Cryo Certification Lab", detail: "Semen and embryo processing, storage, and export certification. Only sovereign-grade cryo facility north of Townsville. PFES registered and ISO pathway active.", col: C.green },
+    { label: "Digital Trade Deck", detail: "Carbon and biodiversity credit ledger. Integrates with PFES land ledger for real-time verification. Digital export clearance for ecological credit buyers.", col: C.sky },
   ];
   return (
     <div className="cy-page">
@@ -1090,7 +1014,7 @@ function CapitalView() {
   const stack = [
     { label: "Federal Government Equity", sub: "Commonwealth co-investment (NRF + NAIF)", amt: "$400M", pct: 40, col: C.turquoise, note: "Foundation layer. Cannot raise the remaining capital without sovereign anchor." },
     { label: "Rio Tinto Infrastructure Contribution", sub: "Port, power, roads — valued as equity or concessional lease", amt: "$250M", pct: 25, col: C.dirt, note: "Existing Weipa infrastructure contributed in-kind, not cash. Avoids greenfield port build." },
-    { label: "Paniri Agricultural Co.", sub: "CYFER IP, cattle programme, operations", amt: "$50M", pct: 5, col: C.green, note: "Operating partner equity. Holds the standard, the genetics programme, and the market relationships." },
+    { label: "Paniri Agricultural Co.", sub: "PFES IP, cattle programme, operations", amt: "$50M", pct: 5, col: C.green, note: "Operating partner equity. Holds the standard, the genetics programme, and the market relationships." },
     { label: "Sovereign Wealth Co-investors", sub: "Singapore GIC, Korea NPS, UAE funds", amt: "$200M", pct: 20, col: C.gold, note: "Follows sovereign signal. Committed once Canberra and Rio Tinto are aligned." },
     { label: "ESG-aligned Private Equity", sub: "Infrastructure fund tier", amt: "$100M", pct: 10, col: C.sky, note: "Last tranche. Fills working capital and buffer once co-investor anchor is in place." },
   ];
@@ -1106,7 +1030,7 @@ function CapitalView() {
 
       <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 10, marginBottom: 24 }}>
         {[
-          { label: "CYFER Toll Road", desc: "Every tonne of ecological protein that exits Cape York under verified credentials pays a licensing toll. Other operators cannot export on equivalent terms without licensing CYFER. This is proprietary margin that scales with volume and compounds as the standard gains international recognition.", col: C.turquoise },
+          { label: "PFES Toll Road", desc: "Every tonne of ecological protein that exits Cape York under verified credentials pays a licensing toll. Other operators cannot export on equivalent terms without licensing PFES. This is proprietary margin that scales with volume and compounds as the standard gains international recognition.", col: C.turquoise },
           { label: "Genetic IP", desc: "The highest-margin, lowest-audit-cost stream. 5,000 cryo units/year at $200–1,500/unit. Scales independently of the terminal build. Generating revenue before a single container ships. The most capital-light extraction play in the portfolio.", col: C.gold },
           { label: "Infrastructure Rent", desc: "The vessel and terminal create a logistics rent that every Cape York station must pay to access southern and northern markets. Once built, this position is structurally unassailable. The moat compounds as partner stations become operationally dependent.", col: C.dirt },
         ].map(p => (
@@ -1149,25 +1073,19 @@ function CapitalView() {
 
       <hr className="cy-divider" />
 
-      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Federal Mechanism — Specified</div>
-      <div style={{ display: "flex", flexDirection: "column", gap: 10, marginBottom: 20 }}>
+      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Federal Government Framing</div>
+      <div className="cy-grid2">
         {[
-          { instrument: "NAIF Concessional Debt — $250M", desc: "Northern Australia Infrastructure Facility provides concessional debt at below-market rates for the Weipa terminal and road logistics infrastructure. Secured against the terminal asset and export revenue. Precedent: NAIF has funded comparable remote northern infrastructure at this scale.", col: C.turquoise, type: "Debt" },
-          { instrument: "NRF Equity — $150M", desc: "National Reconstruction Fund equity stake in the SPV, structured as patient capital with a 15-year horizon and a pre-agreed minimum return of CPI + 3%. NRF equity is not contingent on near-term revenue and is specifically designed for transformative industrial infrastructure.", col: C.sky, type: "Equity" },
-          { instrument: "Queensland Government Co-investment — $50M", desc: "QLD state government co-investment as the critical political hedge. Even if federal government changes, QLD has its own equity stake and an independent mandate to advocate for the project. Precedents: QLD has co-invested in Adani rail infrastructure and GPC port expansion at comparable scale.", col: C.green, type: "Equity" },
-        ].map(s => (
-          <div key={s.instrument} className="cy-card" style={{ borderLeft: `3px solid ${s.col}`, borderRadius: "0 12px 12px 0" }}>
-            <div style={{ display: "flex", gap: 10, alignItems: "baseline", flexWrap: "wrap", marginBottom: 6 }}>
-              <div style={{ fontSize: 13, fontWeight: 600, color: C.sand, fontFamily: "'Sora', sans-serif" }}>{s.instrument}</div>
-              <span className="cy-pill" style={{ background: s.col + "22", color: s.col, fontSize: 9 }}>{s.type}</span>
-            </div>
-            <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>{s.desc}</div>
+          { label: "Strategic food security infrastructure", desc: "Australia's northern export corridor into the world's fastest-growing protein market. Analogous to Ord River, Darwin port expansion, Snowy Hydro 2.0 — infrastructure the Commonwealth has funded before when the geopolitical logic is clear." },
+          { label: "Defence-adjacent supply chain", desc: "Sovereign protein supply corridor in the Indo-Pacific. Reduces regional food insecurity that drives instability. Positions Australia as a reliable supplier to key bilateral partners — Indonesia, Vietnam, Philippines — ahead of competing origin countries." },
+          { label: "Northern Australia mandate", desc: "NAIF + NRF were created for exactly this. A $1B northern infrastructure project with verifiable export revenue, sovereign buyer offtake, and ecological co-benefits is the strongest possible use of both facilities." },
+          { label: "Precedents", desc: "Ord River Irrigation Scheme. Darwin port infrastructure. Snowy Hydro 2.0. The Commonwealth has repeatedly co-invested in transformative northern and remote infrastructure when the long-term strategic case was clear." },
+        ].map(it => (
+          <div key={it.label} className="cy-card">
+            <div style={{ fontSize: 12, fontWeight: 600, color: C.turquoise, marginBottom: 5, fontFamily: "'Sora', sans-serif" }}>{it.label}</div>
+            <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>{it.desc}</div>
           </div>
         ))}
-      </div>
-      <div style={{ padding: "14px 18px", background: C.faint, borderRadius: 10, border: `1px solid ${C.border}`, marginBottom: 4 }}>
-        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: C.muted, letterSpacing: "0.08em", marginBottom: 6 }}>Political Protection Logic</div>
-        <div className="cy-body" style={{ margin: 0, fontSize: 13 }}>The combination of NAIF debt (locked to the asset, not political will), NRF equity (independent mandate), and QLD co-investment (state-level advocate) means no single federal political change can unwind the capital structure. Three independent sovereign parties each have their own commercial and political reasons to maintain the project — regardless of which party governs in Canberra.</div>
       </div>
     </div>
   );
@@ -1217,9 +1135,9 @@ function GovernanceView() {
       party: "Paniri Agricultural Co.",
       role: "Operating partner + IP holder",
       col: C.green,
-      contribution: "$50M equity — CYFER IP + operations",
+      contribution: "$50M equity — PFES IP + operations",
       what: [
-        "Cape York Fertility and Ecology Register (CYFER) — the verification layer",
+        "Paniri Fertility + Ecology Standard (PFES) — the verification layer",
         "Cattle genetics programme and herd expansion design",
         "Market relationships in Indonesia, Vietnam, Korea",
         "Seasonal operating model design and execution",
@@ -1227,7 +1145,7 @@ function GovernanceView() {
       ],
       gets: [
         "Full operating contract for the SPV",
-        "CYFER licensing revenue as standard scales",
+        "PFES licensing revenue as standard scales",
         "Carried interest on land and herd revaluation",
         "Global pilot status for Paniri model replication",
       ],
@@ -1307,76 +1225,12 @@ function GovernanceView() {
           {[
             { l: "Native title agreements", d: "Land use frameworks co-designed with Wik and Wik-Mungkan traditional owner groups before any capital is committed." },
             { l: "Employment and economic participation", d: "Traditional owner employment targets written into the SPV operating agreement. Workforce pipeline built through PEEC and regional training." },
-            { l: "Ecological stewardship recognition", d: "CYFER credits structured to recognise traditional ecological knowledge as a verifiable input. Royalty stream embedded from Year 1." },
+            { l: "Ecological stewardship recognition", d: "PFES credits structured to recognise traditional ecological knowledge as a verifiable input. Royalty stream embedded from Year 1." },
             { l: "Governance representation", d: "Traditional owner seat on the SPV board. Not advisory — voting." },
           ].map(it => (
             <div key={it.l}>
               <div style={{ fontSize: 12, fontWeight: 600, color: C.gold, marginBottom: 4, fontFamily: "'Sora', sans-serif" }}>{it.l}</div>
               <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>{it.d}</div>
-            </div>
-          ))}
-        </div>
-      </div>
-      <hr className="cy-divider" />
-
-      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Rio Tinto — Commercial Terms Specified</div>
-      <div className="cy-card" style={{ borderColor: C.dirt + "44", marginBottom: 20 }}>
-        <div className="cy-body" style={{ marginBottom: 14 }}>Rio Tinto's contribution is structured as a 25-year concessional lease of Weipa port infrastructure (berths, power grid, accommodation villages, roads), valued at $250M. This is not a vague equity contribution — it is a defined commercial arrangement with specific terms.</div>
-        <div className="cy-grid2" style={{ gap: 14 }}>
-          {[
-            { label: "What Rio Tinto contributes", items: ["25-year concessional infrastructure lease valued at $250M","Port berth access — livestock and reefer vessels","Power grid and accommodation village access during operational season","Road and logistics network to inland station country","Existing regulatory tenure and land use agreements"] },
-            { label: "What Rio Tinto receives", items: ["SPV equity proportional to lease value — 25% founding stake","Annual lease revenue from the SPV at agreed rate","Option to convert lease equity to cash at a pre-agreed multiple at exit","Northern Australia diversification narrative for Weipa tenure","Social licence strengthening with Wik and Wik-Mungkan traditional owners"] },
-          ].map(col => (
-            <div key={col.label}>
-              <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.dirt, letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 8 }}>{col.label}</div>
-              {col.items.map(item => (
-                <div key={item} style={{ display: "flex", gap: 8, alignItems: "flex-start", marginBottom: 5 }}>
-                  <div style={{ width: 4, height: 4, borderRadius: "50%", background: C.dirt, marginTop: 7, flexShrink: 0 }}></div>
-                  <div style={{ fontSize: 12, color: C.muted, lineHeight: 1.6, fontFamily: "'Sora', sans-serif" }}>{item}</div>
-                </div>
-              ))}
-            </div>
-          ))}
-        </div>
-      </div>
-
-      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Indonesian Market Risk — Treatment</div>
-      <div className="cy-card" style={{ borderColor: C.gold + "44", marginBottom: 20 }}>
-        <div className="cy-body" style={{ marginBottom: 14 }}>Indonesia's live cattle import permit regime has been erratic. The Indonesian government's food self-sufficiency agenda creates policy risk that must be addressed directly rather than ignored.</div>
-        <div className="cy-grid2" style={{ gap: 14 }}>
-          <div>
-            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#E07060", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 8 }}>The Risk</div>
-            <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>Indonesia's import permit system has been suspended or restricted multiple times, including during COVID and during enforcement of the 3% breeding cattle requirement. A sustained permit freeze would reduce live cattle revenue — the second-largest stream — materially.</div>
-          </div>
-          <div>
-            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.gold, letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 8 }}>Three Mitigations</div>
-            {[
-              "CYFER-certified product is positioned primarily as breeding genetics, not commodity feedlot supply. Indonesia's own 3% breeding cattle import requirement creates structural demand for certified genetic material that is immune to feedlot permit freezes.",
-              "Live cattle revenue is diversified across four markets — Indonesia, Vietnam, Philippines, and South Korea. Indonesian exposure is modelled at ≤40% of live cattle volume in the base case.",
-              "DFAT bilateral embedding provides government-to-government diplomatic protection above commercial permit level. The Indonesia–Australia CEPA corridor is the instrument.",
-            ].map((t, i) => (
-              <div key={i} style={{ display: "flex", gap: 8, alignItems: "flex-start", marginBottom: 6 }}>
-                <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: C.gold, flexShrink: 0, marginTop: 2 }}>{i+1}.</div>
-                <div style={{ fontSize: 12, color: C.muted, lineHeight: 1.6, fontFamily: "'Sora', sans-serif" }}>{t}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </div>
-
-      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Operator Continuity — Governance Protections</div>
-      <div className="cy-card" style={{ borderColor: C.turquoise + "33" }}>
-        <div className="cy-body" style={{ marginBottom: 14 }}>Paniri Agricultural Co. holds the operating contract and the IP. Corporate Carbon Group's financial position and governance continuity must be structurally protected before sovereign capital commits.</div>
-        <div className="cy-grid2" style={{ gap: 14 }}>
-          {[
-            { label: "IP held in separate HoldCo", desc: "CYFER standard and genetic composite IP are held in a dedicated IP HoldCo within the SPV structure — separate from Paniri's operating entity. If Paniri's operating position changes, the IP is protected and continues to generate royalty revenue independently." },
-            { label: "Key person provisions", desc: "Operating contract specifies key personnel roles with succession plans embedded. Change of control at Corporate Carbon Group triggers a 12-month notice period and SPV board right of approval over any replacement operator." },
-            { label: "Step-in rights for the SPV board", desc: "If Paniri fails to meet operational milestones for two consecutive seasons, the SPV board has documented step-in rights to appoint an interim operator without unwinding the capital structure." },
-            { label: "Minimum equity retention", desc: "Paniri is required to maintain a minimum 5% equity stake in the SPV for the duration of the operating contract — aligning operator incentives with investor returns and preventing a pure fee-for-service relationship." },
-          ].map(it => (
-            <div key={it.label}>
-              <div style={{ fontSize: 12, fontWeight: 600, color: C.turquoise, marginBottom: 4, fontFamily: "'Sora', sans-serif" }}>{it.label}</div>
-              <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>{it.desc}</div>
             </div>
           ))}
         </div>
@@ -1400,7 +1254,7 @@ function RegulatoryView() {
       cat: "International Recognition",
       col: C.gold,
       items: [
-        { label: "CYFER ISO Registration", body: "Cape York Fertility and Ecology Register registered with ISO for international recognition as a sovereign-grade verification system. Enables bilateral pre-approval for Cape-origin product." },
+        { label: "PFES ISO Registration", body: "Paniri Fertility + Ecology Standard registered with ISO for international recognition as a sovereign-grade verification system. Enables bilateral pre-approval for Cape-origin product." },
         { label: "Carbon Trust Dual-Certification", body: "Dual certification pathway with Carbon Trust enables recognition of Cape York ecological credits in UK, EU, and Asian carbon markets." },
         { label: "UN/OECD Climate-Aligned Export Pilot Zone", body: "International registration as climate-aligned trade zone — creates template eligibility for Paniri model replication and international IP licensing." },
       ]
@@ -1469,7 +1323,7 @@ function PhasesView({ setView }) {
       items: [
         "Submit QLD Agricultural Export Precinct proposal",
         "Secure zoning and permitting path for Weipa Terminal",
-        "Finalise CYFER structure and ISO submission",
+        "Finalise PFES structure and ISO submission",
         "Begin offtake discussions with Indonesia and Vietnam",
         "Initiate Federal Government co-investment conversation (NRF + NAIF)",
         "Bilateral engagement with DFAT for trade embedding",
@@ -1488,20 +1342,19 @@ function PhasesView({ setView }) {
         "Herd reaches 95,000 head — first composite generation",
         "Genetic material export commences",
         "ABF bonded zone fully operational",
-        "CYFER ISO registered and active across all five streams",
+        "PFES ISO registered and active across all four streams",
       ]
     },
     {
       n: "III", years: "2035–2040", col: C.dirt,
-      label: "Full Export + Standards Infrastructure",
-      note: "Phase III is where Cape York 2040 stops being a cattle business and becomes a standards infrastructure business.",
+      label: "Full Export + Model Licensing",
+      note: "Full ROI cycle. PFES licensed globally. Cape York recognised as world model.",
       items: [
-        "Revenue reaches $349.2M in 2035 — the mechanical extraction flip year (steer rate 85%→97%, cull cow 12%→28%)",
         "Cape York recognised as global pilot for climate-aligned protein trade",
-        "CYFER standard licensed or replicated in other ecological trade regions — sub-licensing royalties activate (second revenue layer, not yet modelled)",
-        "Full ROI cycle: land revaluation, export premiums, and ecological IP monetisation running simultaneously",
-        "150,000 head ecological herd at full productivity — model projects 193,000 head by 2040, exceeding all targets",
-        "All five export streams at target volume — genetics stream compounding at +8%/yr reaches $12.69M by 2040",
+        "Paniri Fertility + Ecology Standard licensed or replicated in other ecological trade regions",
+        "Full ROI cycle begins via land revaluation, export premiums, and ecological IP monetisation",
+        "150,000 head ecological herd at full productivity",
+        "All four export streams at target volume",
         "Cape York 2040 model pitched for replication in Northern Territory and Western Arnhem Land",
       ]
     },
@@ -1565,7 +1418,7 @@ function RisksView() {
       likelihood: "Medium",
       impact: "High",
       col: C.sky,
-      mitigation: "Parallel pursuit of private standards (CYFER ISO) alongside government channels. DFAT bilateral engagement de-risks single-agency bottlenecks. Phased capital deployment ensures no stranded assets if Phase I designation is delayed.",
+      mitigation: "Parallel pursuit of private standards (PFES ISO) alongside government channels. DFAT bilateral engagement de-risks single-agency bottlenecks. Phased capital deployment ensures no stranded assets if Phase I designation is delayed.",
     },
     {
       risk: "Capital Volatility",
@@ -1647,7 +1500,7 @@ function AdvisorView() {
   const starters = [
     "What makes Weipa the right location?",
     "Break down the live cattle unit economics",
-    "How does CYFER work across all five streams?",
+    "How does PFES work across all four streams?",
     "What's the NAIF funding pathway?",
   ];
 
@@ -1656,7 +1509,7 @@ function AdvisorView() {
       <div className="cy-eyebrow">Paniri Strategic Advisor</div>
       <div className="cy-section-num">13</div>
       <h1 className="cy-h1" style={{ marginBottom: 6 }}>AI Advisor.</h1>
-      <p className="cy-body" style={{ marginBottom: 16 }}>Complete knowledge of Cape York 2040, CYFER, capital structure, market alignment, and the Black Mat Holdings portfolio.</p>
+      <p className="cy-body" style={{ marginBottom: 16 }}>Complete knowledge of Cape York 2040, PFES, capital structure, market alignment, and the Black Mat Holdings portfolio.</p>
 
       {msgs.length === 0 && (
         <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 16 }}>
@@ -1699,6 +1552,200 @@ function AdvisorView() {
   );
 }
 
+// ─── SUPPLY CYCLE + ALLOCATION ENGINE ────────────────────────────────────────
+
+function kellyFrac(p, mult) {
+  const b = mult - 1;
+  const f = (b * p - (1 - p)) / b;
+  return Math.max(0, f) * 0.25;
+}
+
+function bayesUp(prior, pY, pN) {
+  const pe = pY * prior + pN * (1 - prior);
+  return pe === 0 ? prior : (pY * prior) / pe;
+}
+
+const CYCLE_PHASES = [
+  { t: "Drought Onset", mo: "0–6 mo", priceΔ: -0.18, action: "HOLD", col: "#E05050",
+    detail: "Southern saleyards flood with forced sales. Domestic live cattle price drops 15–30%. Live export is partially insulated — drought-stressed cattle often fail Indonesian weight specs.",
+    credit: "Ecological credits generating full revenue. No imperative to sell." },
+  { t: "Forced Liquidation", mo: "6–18 mo", priceΔ: -0.28, action: "HOLD", col: "#F5A623",
+    detail: "Breeding females hit the yards. Not surplus steers — the reproductive base itself is being destroyed. Breeders sold at any price because producers cannot afford to feed them.",
+    credit: "Credits + genetics revenue sustains cash flow. Hold herd on wet-season grass." },
+  { t: "Recovery Signal", mo: "18–30 mo", priceΔ: +0.12, action: "PREPARE", col: "#DAA520",
+    detail: "Drought breaks. Southern producers rush to restock — but breeders are gone. Restocking demand emerges, slaughter numbers collapse. The gap is forming.",
+    credit: "Begin conditioning and staging cattle toward Weipa for dry-season opening." },
+  { t: "Supply Gap", mo: "30–48 mo", priceΔ: +0.38, action: "SELL", col: "#40E0D0",
+    detail: "Southern herd 30–50% below pre-drought levels. Rebuilding takes 4–7 years. Cape York holds the only mature, verified, northern-adapted herd available for SE Asian export.",
+    credit: "Maximum allocation to live export. Price premium captures the temporal arbitrage." },
+];
+
+const ENSO_ADJ = {
+  lanina:  { live: -0.05, genetics: 0.00, boxed: -0.08, credits:  0.05, opsRisk: -0.12, label: "La Niña",  icon: "🌧️", col: "#40E0D0" },
+  neutral: { live:  0.00, genetics: 0.00, boxed:  0.00, credits:  0.00, opsRisk:  0.00, label: "Neutral",  icon: "☁️", col: "#7A9A8A" },
+  elnino:  { live:  0.20, genetics: 0.08, boxed:  0.14, credits:  0.12, opsRisk:  0.15, label: "El Niño",  icon: "☀️", col: "#F5A623" },
+};
+
+const STREAMS_DEF = [
+  { id: "genetics", label: "Genetic Material", icon: "🧬", col: "#40E0D0", baseMult: 12.0, baseP: 0.82, adjKey: "genetics" },
+  { id: "credits",  label: "Eco Credits",      icon: "🌿", col: "#228B22", baseMult:  7.5, baseP: 0.74, adjKey: "credits"  },
+  { id: "boxed",    label: "Boxed Beef",        icon: "📦", col: "#DAA520", baseMult:  3.8, baseP: 0.68, adjKey: "boxed"   },
+  { id: "live",     label: "Live Cattle",       icon: "🐄", col: "#E05050", baseMult:  1.4, baseP: 0.71, adjKey: "live"    },
+];
+
+function AllocationEngine() {
+  const [enso, setEnso] = useState("neutral");
+  const [cyclePhase, setCyclePhase] = useState(null);
+  const [baseLivePrice] = useState(750); // $/head baseline
+  const creditBridgePerHead = 18; // $/head/month approximate credit offset during hold
+
+  const adj = ENSO_ADJ[enso];
+
+  // Compute Kelly fractions with ENSO adjustment
+  const kellys = STREAMS_DEF.map(s => {
+    const effMult = s.baseMult * (1 + (adj[s.adjKey] || 0));
+    const f = kellyFrac(s.baseP, effMult);
+    return { ...s, effMult, f };
+  });
+  const totalF = kellys.reduce((a, s) => a + Math.max(s.f, 0.02), 0);
+  const allocs = kellys.map(s => ({ ...s, alloc: Math.max(s.f, 0.02) / totalF }));
+
+  // Hold/sell analysis for selected cycle phase
+  const liveAlloc = allocs.find(s => s.id === "live");
+  const cp = cyclePhase !== null ? CYCLE_PHASES[cyclePhase] : null;
+  const currentLivePrice = cp ? baseLivePrice * (1 + cp.priceΔ) : baseLivePrice;
+  const gapPrice = baseLivePrice * (1 + CYCLE_PHASES[3].priceΔ);
+  const holdMonths = cp ? [0, 12, 6, 0][cyclePhase] : 0;
+  const creditBridge = holdMonths * creditBridgePerHead;
+  const netGapAdvantage = gapPrice - currentLivePrice - Math.max(0, holdMonths * 2); // $2/head/mo net cost after credits
+
+  const pStyle = { fontSize: 13, color: "#9AADA4", lineHeight: 1.7, fontFamily: "'Sora', sans-serif" };
+  const monoSm = { fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, letterSpacing: "0.1em", textTransform: "uppercase" };
+
+  return (
+    <div style={{ marginBottom: 40 }}>
+
+      {/* ENSO Row */}
+      <div style={{ ...monoSm, color: "#9AADA4", marginBottom: 14, display: "flex", alignItems: "center", gap: 8 }}>
+        <span>ENSO Climate Phase</span>
+        <span style={{ flex: 1, height: 1, background: "#1E2E26", display: "inline-block" }} />
+      </div>
+      <div style={{ display: "flex", gap: 10, marginBottom: 28, flexWrap: "wrap" }}>
+        {Object.entries(ENSO_ADJ).map(([key, d]) => (
+          <button key={key} onClick={() => setEnso(key)}
+            style={{ flex: 1, minWidth: 130, padding: "14px 16px", border: `${enso === key ? 2 : 1}px solid ${enso === key ? d.col : "#1E2E26"}`,
+              borderRadius: 10, background: "#111A16", cursor: "pointer", textAlign: "left", transition: "all 0.2s" }}>
+            <div style={{ fontSize: 18, marginBottom: 4 }}>{d.icon}</div>
+            <div style={{ ...monoSm, color: enso === key ? d.col : "#E8F0EB", fontSize: 11 }}>{d.label}</div>
+            <div style={{ fontSize: 11, color: "#7A9A8A", marginTop: 3 }}>
+              Live price Δ {d.live >= 0 ? "+" : ""}{(d.live * 100).toFixed(0)}% · Ops {d.opsRisk >= 0 ? "+" : ""}{(d.opsRisk * 100).toFixed(0)}%
+            </div>
+          </button>
+        ))}
+      </div>
+
+      {/* El Niño moat callout */}
+      {enso === "elnino" && (
+        <div style={{ background: "#F5A62310", border: "1px solid #F5A62333", borderLeft: "3px solid #F5A623", borderRadius: 10, padding: "16px 20px", marginBottom: 24 }}>
+          <div style={{ ...monoSm, color: "#F5A623", marginBottom: 8 }}>⚡ El Niño Structural Moat</div>
+          <p style={pStyle}>El Niño sharpens Cape York's dry season operating window while simultaneously forcing southern herd liquidation and lifting SE Asian import demand. Cape York is the only major Australian producer whose conditions <em style={{ color: "#F5A623" }}>improve</em> when the rest of the country is in crisis. The counter-cyclical advantage is not incidental — it is structural.</p>
+        </div>
+      )}
+
+      {/* Kelly Allocation */}
+      <div style={{ ...monoSm, color: "#9AADA4", marginBottom: 14, display: "flex", alignItems: "center", gap: 8 }}>
+        <span>Kelly-Optimal Stream Allocation · {adj.icon} {adj.label}</span>
+        <span style={{ flex: 1, height: 1, background: "#1E2E26", display: "inline-block" }} />
+      </div>
+      <div style={{ background: "#111A16", border: "1px solid #1E2E26", borderRadius: 12, padding: "20px 22px", marginBottom: 28 }}>
+        {allocs.map(s => (
+          <div key={s.id} style={{ marginBottom: 14 }}>
+            <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 5, fontSize: 12 }}>
+              <span style={{ color: "#9AADA4" }}>{s.icon} {s.label}</span>
+              <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontWeight: 600, color: s.col }}>{(s.alloc * 100).toFixed(1)}%</span>
+            </div>
+            <div style={{ height: 7, background: "#1E2E26", borderRadius: 4, overflow: "hidden" }}>
+              <div style={{ height: "100%", width: `${s.alloc * 100}%`, background: s.col, borderRadius: 4, transition: "width 0.5s ease" }} />
+            </div>
+            <div style={{ fontSize: 10, color: "#4A6A5A", fontFamily: "'IBM Plex Mono', monospace", marginTop: 3 }}>
+              {s.effMult.toFixed(1)}× margin · P={s.baseP.toFixed(2)} → Kelly {(s.f * 100).toFixed(1)}%
+            </div>
+          </div>
+        ))}
+        <div style={{ borderTop: "1px solid #1E2E26", paddingTop: 14, marginTop: 6, display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
+          <div>
+            <div style={{ ...monoSm, color: "#9AADA4", marginBottom: 3 }}>Genetics Priority</div>
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 18, color: "#40E0D0" }}>{(allocs.find(s => s.id === "genetics").alloc * 100).toFixed(1)}%</div>
+            <div style={{ fontSize: 10, color: "#4A6A5A" }}>Highest-margin stream fills first</div>
+          </div>
+          <div>
+            <div style={{ ...monoSm, color: "#9AADA4", marginBottom: 3 }}>Live Cattle Residual</div>
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 18, color: "#E05050" }}>{(allocs.find(s => s.id === "live").alloc * 100).toFixed(1)}%</div>
+            <div style={{ fontSize: 10, color: "#4A6A5A" }}>Capacity after premium streams fill</div>
+          </div>
+        </div>
+      </div>
+
+      {/* Supply Cycle */}
+      <div style={{ ...monoSm, color: "#9AADA4", marginBottom: 14, display: "flex", alignItems: "center", gap: 8 }}>
+        <span>Drought Supply Cycle — Select Phase</span>
+        <span style={{ flex: 1, height: 1, background: "#1E2E26", display: "inline-block" }} />
+      </div>
+
+      {/* Cycle explainer */}
+      <div style={{ background: "#111A16", border: "1px solid #1E2E26", borderRadius: 12, padding: "16px 20px", marginBottom: 16 }}>
+        <p style={{ ...pStyle, marginBottom: 0 }}>
+          The drought glut and the supply gap are <strong style={{ color: "#E8F0EB" }}>the same event — separated by 18–30 months.</strong> Forced liquidation in Phase 2 destroys the southern breeding base. Once breeders are gone, rebuilding takes 4–7 years. Cape York's native pasture and credit revenue allow it to hold through the glut and sell into the gap — a temporal arbitrage made possible by ecological design.
+        </p>
+      </div>
+
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(2, 1fr)", gap: 10, marginBottom: 16 }}>
+        {CYCLE_PHASES.map((cp2, i) => (
+          <button key={i} onClick={() => setCyclePhase(cyclePhase === i ? null : i)}
+            style={{ padding: "14px 16px", border: `${cyclePhase === i ? 2 : 1}px solid ${cyclePhase === i ? cp2.col : "#1E2E26"}`,
+              borderRadius: 10, background: cyclePhase === i ? cp2.col + "12" : "#111A16", cursor: "pointer", textAlign: "left", transition: "all 0.2s" }}>
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 6 }}>
+              <div style={{ ...monoSm, color: cp2.col, fontSize: 9 }}>{cp2.mo}</div>
+              <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, fontWeight: 700,
+                color: cp2.priceΔ >= 0 ? "#40E0D0" : "#E05050" }}>
+                {cp2.priceΔ >= 0 ? "+" : ""}{(cp2.priceΔ * 100).toFixed(0)}%
+              </div>
+            </div>
+            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 15, color: cp2.col, marginBottom: 3 }}>{cp2.t}</div>
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: cp2.action === "HOLD" ? "#E05050" : cp2.action === "PREPARE" ? "#DAA520" : "#40E0D0", fontWeight: 700 }}>
+              ▶ {cp2.action}
+            </div>
+          </button>
+        ))}
+      </div>
+
+      {cp && (
+        <div style={{ background: "#111A16", border: `1px solid ${cp.col}44`, borderLeft: `3px solid ${cp.col}`, borderRadius: 12, padding: "20px 22px", marginBottom: 16 }}>
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 12 }}>
+            <div>
+              <div style={{ ...monoSm, color: cp.col, marginBottom: 4 }}>{cp.mo} · {cp.t}</div>
+              <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 20, color: "#E8F0EB" }}>
+                Live price: <span style={{ color: cp.priceΔ >= 0 ? "#40E0D0" : "#E05050" }}>${currentLivePrice.toFixed(0)}/head</span>
+              </div>
+            </div>
+            <div style={{ textAlign: "right" }}>
+              <div style={{ ...monoSm, color: "#9AADA4", marginBottom: 4 }}>Gap-phase target</div>
+              <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 16, color: "#40E0D0" }}>${gapPrice.toFixed(0)}/head</div>
+            </div>
+          </div>
+          <p style={pStyle}>{cp.detail}</p>
+          <div style={{ marginTop: 12, padding: "10px 14px", background: "#228B2218", border: "1px solid #228B2233", borderRadius: 8 }}>
+            <div style={{ ...monoSm, color: "#228B22", marginBottom: 4 }}>Credit Bridge</div>
+            <p style={{ ...pStyle, marginBottom: 0, fontSize: 12 }}>{cp.credit}
+              {holdMonths > 0 && <span style={{ color: "#40E0D0", fontFamily: "'IBM Plex Mono', monospace" }}> ≈ ${creditBridge}/head offset over {holdMonths}mo hold. Net gap advantage: <strong>${netGapAdvantage.toFixed(0)}/head.</strong></span>}
+            </p>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
 function ProfitabilityView({ setView }) {
   const acts = [
     {
@@ -1721,13 +1768,13 @@ function ProfitabilityView({ setView }) {
       years: "2030–2035",
       col: "#DAA520",
       status: "Build phase",
-      problem: "Stopping the bleeding is not a business. The transition from loss-cessation to revenue generation requires infrastructure — the Weipa terminal, the CYFER certification system, the cryo lab, the export corridors. This is the capital deployment phase. It is also the phase where the genetic programme begins producing its first certified composite cohorts.",
+      problem: "Stopping the bleeding is not a business. The transition from loss-cessation to revenue generation requires infrastructure — the Weipa terminal, the PFES certification system, the cryo lab, the export corridors. This is the capital deployment phase. It is also the phase where the genetic programme begins producing its first certified composite cohorts.",
       actions: [
-        { label: "Genetic IP — first revenue before the terminal", detail: "Boran × Cape composite semen and embryos certified under CYFER. 5,000 units/year at $200–1,500/unit. This stream requires no terminal, no shipping container, no cold chain hub. It is the first proprietary revenue extraction play — and the highest margin per kg of biological output in the portfolio." },
-        { label: "CYFER — activate the toll road", detail: "Cape York Fertility and Ecology Register registered and operational. Every verified ecological protein export from Cape York pays through this rail. Partner stations wanting verified credentials must license. Sovereign buyers wanting traceable origin must accept CYFER-verified product. The standard becomes the price of entry." },
-        { label: "Five export streams — staggered activation", detail: "Live cattle and boxed beef first (terminal construction Phase 1). Ecological credits activate as soon as CYFER land ledger is operational — no physical infrastructure required. Genetic material already running. The four streams diversify revenue risk and generate independent cash flows." },
+        { label: "Genetic IP — first revenue before the terminal", detail: "Boran × Cape composite semen and embryos certified under PFES. 5,000 units/year at $200–1,500/unit. This stream requires no terminal, no shipping container, no cold chain hub. It is the first proprietary revenue extraction play — and the highest margin per kg of biological output in the portfolio." },
+        { label: "PFES — activate the toll road", detail: "Paniri Fertility + Ecology Standard registered and operational. Every verified ecological protein export from Cape York pays through this rail. Partner stations wanting verified credentials must license. Sovereign buyers wanting traceable origin must accept PFES-verified product. The standard becomes the price of entry." },
+        { label: "Four export streams — staggered activation", detail: "Live cattle and boxed beef first (terminal construction Phase 1). Ecological credits activate as soon as PFES land ledger is operational — no physical infrastructure required. Genetic material already running. The four streams diversify revenue risk and generate independent cash flows." },
       ],
-      outcome: "Revenue across five streams. CYFER licensing begins. Infrastructure moat is operational. The system moves from cash-flow neutral to meaningfully positive.",
+      outcome: "Revenue across four streams. PFES licensing begins. Infrastructure moat is operational. The system moves from cash-flow neutral to meaningfully positive.",
     },
     {
       n: "III",
@@ -1738,10 +1785,10 @@ function ProfitabilityView({ setView }) {
       problem: "This is where profit per hectare and the correct metric diverge most sharply — and where the long-term investor captures returns that the short-term investor cannot see. A system running within its solar income does not depreciate its underlying asset. It accumulates.",
       actions: [
         { label: "Land appreciation — the compounding asset", detail: "Soil carbon accumulates. Pasture condition improves year-on-year. Carrying capacity increases without input increase. The land that was worth pastoral lease rates in 2027 is worth verified ecological export infrastructure in 2040. Land revaluation is the exit. The investor who entered in 2028 holds a fundamentally different asset." },
-        { label: "CYFER licensing — global IP royalty", detail: "Cape York 2040 is the proof-of-concept. Phase III licenses the Paniri standard to other ecological pastoral regions — Northern Territory, Western Arnhem Land, and ultimately international equivalents. Each licensing agreement generates royalty revenue that requires zero additional capital deployment. Pure IP extraction." },
+        { label: "PFES licensing — global IP royalty", detail: "Cape York 2040 is the proof-of-concept. Phase III licenses the Paniri standard to other ecological pastoral regions — Northern Territory, Western Arnhem Land, and ultimately international equivalents. Each licensing agreement generates royalty revenue that requires zero additional capital deployment. Pure IP extraction." },
         { label: "Infrastructure rent — permanent moat", detail: "The vessel and terminal generate logistics rent from every station on Cape York that ships through the network. This position cannot be replicated without replicating years of relationship capital, regulatory tenure, and sunk infrastructure cost. The rent compounds as the network expands." },
       ],
-      outcome: "The underlying asset appreciates. CYFER generates global royalties. Infrastructure rent is permanent. The investor who held for 12 years is sitting on a portfolio that no competitor can replicate — at any price.",
+      outcome: "The underlying asset appreciates. PFES generates global royalties. Infrastructure rent is permanent. The investor who held for 12 years is sitting on a portfolio that no competitor can replicate — at any price.",
     },
   ];
 
@@ -1750,7 +1797,7 @@ function ProfitabilityView({ setView }) {
     { label: "Live cattle", v: "$58–81M/yr", note: "90,000 head at $650–900/head by 2035", col: "#A0522D", when: "Phase II" },
     { label: "Boxed ecological beef", v: "$150–360M/yr", note: "30,000 MT at $8–12/kg chilled premium", col: "#40E0D0", when: "Phase II" },
     { label: "Ecological credits", v: "$12–24M/yr", note: "350–400K tCO2e at $35–60/t — digital, no logistics", col: "#228B22", when: "Phase I–II" },
-    { label: "CYFER licensing", v: "Royalty TBD", note: "Phase III global IP extraction — zero marginal cost", col: "#87CEEB", when: "Phase III" },
+    { label: "PFES licensing", v: "Royalty TBD", note: "Phase III global IP extraction — zero marginal cost", col: "#87CEEB", when: "Phase III" },
     { label: "Land revaluation", v: "Exit multiplier", note: "The compounding asset — pastoral to verified ecological infrastructure", col: "#F5F0E1", when: "Long-term" },
   ];
 
@@ -1760,7 +1807,7 @@ function ProfitabilityView({ setView }) {
       <div className="cy-section-num" style={{ color: "#1E2E26" }}>$</div>
       <h1 className="cy-h1">Stop the Bleeding.<br />Generate Revenue.<br /><em>Compound.</em></h1>
       <p className="cy-body" style={{ maxWidth: 640, fontSize: 16, marginBottom: 36 }}>
-        The Cape York cattle system is currently loss-making at every point in the chain: wrong genetics for the country, wrong market for the product, wrong logistics for the geography. The conventional response — breed heavier, supplement harder, truck further — does not close the gap. It widens it. You cannot optimise your way into profitability inside the wrong framework. The framework has to change. When it does, the profitability is not marginal. It is structural, durable, and compounding — because the underlying asset appreciates rather than depreciates when the system is aligned to the country's actual productive capacity.
+        This is not an ecological rescue operation dressed up as an investment. It is a first-principles reconstruction of a broken system — one that generates proprietary margin at every stage, builds infrastructure that compounds in value, and produces a long-term asset appreciation that conventional pastoral operations structurally cannot.
       </p>
 
       <div style={{ display: "flex", flexDirection: "column", gap: 16, marginBottom: 48 }}>
@@ -1790,48 +1837,7 @@ function ProfitabilityView({ setView }) {
         ))}
       </div>
 
-      <div className="cy-eyebrow" style={{ marginBottom: 16 }}>Revenue Streams — Base Case Model</div>
-      <div style={{ background: "#111A16", border: "1px solid #1E2E26", borderRadius: 12, padding: 20, marginBottom: 14 }}>
-        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#9AADA4", letterSpacing: "0.08em", textTransform: "uppercase", marginBottom: 12 }}>Base Case — 2035 Target. Sensitivities shown.</div>
-        <div style={{ overflowX: "auto" }}>
-          <table style={{ width: "100%", borderCollapse: "collapse", fontFamily: "'Sora', sans-serif" }}>
-            <thead>
-              <tr style={{ borderBottom: "1px solid #1E2E26" }}>
-                {["Stream", "Volume", "Base Price", "Base Revenue", "Downside", "Upside"].map(h => (
-                  <th key={h} style={{ padding: "8px 12px", textAlign: "left", fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#9AADA4", letterSpacing: "0.08em", textTransform: "uppercase", fontWeight: 500 }}>{h}</th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {[
-                { stream: "Live Cattle", vol: "90,000 hd/yr", price: "$720/hd", base: "$65M", down: "$58M", up: "$81M", col: "#A0522D" },
-                { stream: "Boxed Beef", vol: "30,000 MT/yr", price: "$8.50/kg blended", base: "$255M", down: "$150M", up: "$360M", col: "#40E0D0" },
-                { stream: "Genetic IP", vol: "5,000 units/yr", price: "$500/unit avg", base: "$2.5M", down: "$1.5M", up: "$7.5M", col: "#DAA520" },
-                { stream: "Ecological Credits", vol: "375,000 tCO2e", price: "$45/t avg", base: "$17M", down: "$12M", up: "$24M", col: "#228B22" },
-              ].map((r, i) => (
-                <tr key={i} style={{ borderBottom: "1px solid #2A3D33" }}>
-                  <td style={{ padding: "11px 12px", fontSize: 13, color: r.col, fontWeight: 600, fontFamily: "'Sora', sans-serif" }}>{r.stream}</td>
-                  <td style={{ padding: "11px 12px", fontSize: 12, color: "#9AADA4", fontFamily: "'IBM Plex Mono', monospace" }}>{r.vol}</td>
-                  <td style={{ padding: "11px 12px", fontSize: 12, color: "#9AADA4", fontFamily: "'IBM Plex Mono', monospace" }}>{r.price}</td>
-                  <td style={{ padding: "11px 12px", fontSize: 15, color: "#F5F0E1", fontFamily: "'DM Serif Display', serif", fontWeight: 600 }}>{r.base}</td>
-                  <td style={{ padding: "11px 12px", fontSize: 12, color: "#E07060", fontFamily: "'IBM Plex Mono', monospace" }}>{r.down}</td>
-                  <td style={{ padding: "11px 12px", fontSize: 12, color: "#68D391", fontFamily: "'IBM Plex Mono', monospace" }}>{r.up}</td>
-                </tr>
-              ))}
-              <tr style={{ borderTop: "2px solid #1E2E26", background: "#090E0C" }}>
-                <td colSpan="3" style={{ padding: "12px 12px", fontSize: 12, color: "#9AADA4", fontFamily: "'IBM Plex Mono', monospace", fontWeight: 600 }}>TOTAL ANNUAL REVENUE (2035)</td>
-                <td style={{ padding: "12px 12px", fontSize: 17, color: "#DAA520", fontFamily: "'DM Serif Display', serif", fontWeight: 700 }}>$339M</td>
-                <td style={{ padding: "12px 12px", fontSize: 13, color: "#E07060", fontFamily: "'IBM Plex Mono', monospace" }}>$222M</td>
-                <td style={{ padding: "12px 12px", fontSize: 13, color: "#68D391", fontFamily: "'IBM Plex Mono', monospace" }}>$472M</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        <div style={{ marginTop: 12, fontSize: 11, color: "#9AADA4", fontFamily: "'IBM Plex Mono', monospace", lineHeight: 1.6 }}>
-          Boxed beef base case assumes 70% frozen ($7/kg) / 30% chilled ($12/kg) blended at $8.50/kg average. Downside: 100% frozen, 80% terminal utilisation. Upside: 50% chilled premium, full utilisation. All figures AUD.
-        </div>
-      </div>
-      
+      <div className="cy-eyebrow" style={{ marginBottom: 16 }}>Revenue Streams — By Phase</div>
       <div style={{ display: "flex", flexDirection: "column", gap: 8, marginBottom: 48 }}>
         {metrics.map(m => (
           <div key={m.label} style={{ display: "grid", gridTemplateColumns: "1fr auto auto", gap: 16, alignItems: "center", background: "#111A16", border: "1px solid #1E2E26", borderRadius: 10, padding: "14px 20px" }}>
@@ -1845,40 +1851,20 @@ function ProfitabilityView({ setView }) {
         ))}
       </div>
 
+      <div className="cy-eyebrow" style={{ marginBottom: 16, marginTop: 48 }}>Climate Allocation Engine — El Niño, Supply Cycle & Kelly Sizing</div>
+      <AllocationEngine />
+
       <div style={{ background: "linear-gradient(135deg, #0F4C3A88, #111A16)", border: "1px solid #40E0D044", borderRadius: 14, padding: 26, marginBottom: 24 }}>
         <div className="cy-eyebrow" style={{ marginBottom: 10 }}>The Thermodynamic Foundation of Long-Term Profit</div>
         <p className="cy-body" style={{ marginBottom: 16, fontSize: 15 }}>
           The reason this system compounds — and conventional pastoral systems don't — is the metric underlying it. A system that operates within its solar income does not deplete its asset base. The land that the investor holds in 2040 is more productive, more carbon-rich, more biologically complex, and more valuable than the land they bought in 2028. That appreciation does not appear in a 5-year DCF. It is invisible to any investor operating on a conventional pastoral time horizon.
         </p>
         <p className="cy-body" style={{ marginBottom: 0 }}>
-          CYFER certifies this. The standard is not a regulatory compliance mechanism — it is the instrument by which thermodynamic efficiency is converted into proprietary margin. Certified land appreciates. Uncertified competitors depreciate. The gap widens every year. This is the moat that no amount of capital can quickly replicate, because it is built from biological time — from generations of correct selection, from soil carbon that accumulates over decades, from ecological complexity that cannot be manufactured on a short timeline.
+          PFES certifies this. The standard is not a regulatory compliance mechanism — it is the instrument by which thermodynamic efficiency is converted into proprietary margin. Certified land appreciates. Uncertified competitors depreciate. The gap widens every year. This is the moat that no amount of capital can quickly replicate, because it is built from biological time — from generations of correct selection, from soil carbon that accumulates over decades, from ecological complexity that cannot be manufactured on a short timeline.
         </p>
       </div>
 
-      <div style={{ background: "linear-gradient(135deg, #1a1200, #111A16)", border: "1px solid #DAA52066", borderRadius: 14, padding: 26, marginBottom: 24 }}>
-        <div className="cy-eyebrow" style={{ color: "#DAA520", marginBottom: 12 }}>The Exit — Named and Structured</div>
-        <p className="cy-body" style={{ marginBottom: 20 }}>
-          A 15-year hold at $1B of deployed capital requires a named buyer at exit. The exit for Cape York 2040 is a dual-track structure — infrastructure assets and IP assets exit separately, because they attract different buyer classes.
-        </p>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 14, marginBottom: 20 }}>
-          <div style={{ background: "#111A16", border: "1px solid #1E2E26", borderRadius: 12, padding: 20 }}>
-            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#DAA520", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 8 }}>Track A — Infrastructure Exit (Year 12–15)</div>
-            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 17, color: "#F5F0E1", marginBottom: 10 }}>Trade sale to Asian sovereign food company or infrastructure fund</div>
-            <p className="cy-body" style={{ margin: 0, fontSize: 13 }}>The Weipa terminal, vessel fleet, and cold chain infrastructure are sold as a yield-generating infrastructure asset — to a Macquarie-style infrastructure fund seeking long-duration agricultural logistics yield, or directly to a major Asian sovereign food company (Korea's KEPCO Food, Singapore's Temasek food portfolio, or equivalent) seeking a verified ecological protein supply chain anchor. Infrastructure assets at this scale and with this operating history attract 12–15x EBITDA multiples in comparable deals.</p>
-          </div>
-          <div style={{ background: "#111A16", border: "1px solid #1E2E26", borderRadius: 12, padding: 20 }}>
-            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#40E0D0", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 8 }}>Track B — IP Retention (Ongoing)</div>
-            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 17, color: "#F5F0E1", marginBottom: 10 }}>CYFER licensing and genetic IP retained by Paniri / Black Mat Holdings</div>
-            <p className="cy-body" style={{ margin: 0, fontSize: 13 }}>The CYFER standard and Cape York genetic composite IP are not sold at exit — they are retained by Paniri Agricultural Co. as an ongoing royalty engine. As CYFER scales to other regions (Phase III), this IP generates perpetual licensing revenue with zero marginal cost. The infrastructure buyer gains access to the CYFER network. Paniri retains the toll gate.</p>
-          </div>
-        </div>
-        <div style={{ padding: "14px 18px", background: "#DAA52011", borderRadius: 10, border: "1px solid #DAA52033" }}>
-          <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#DAA520", letterSpacing: "0.08em", marginBottom: 6 }}>Exit Protection Mechanism</div>
-          <p className="cy-body" style={{ margin: 0, fontSize: 13 }}>Sovereign wealth co-investors are granted a right of first refusal on the Track A infrastructure exit, with a pre-agreed valuation floor set at 1.8x invested capital minimum. This provides downside protection and ensures the exit conversation is structured before the asset is taken to market — eliminating the primary source of sovereign fund exit anxiety on long-duration infrastructure holds.</p>
-        </div>
-      </div>
-
-            <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
+      <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
         <button onClick={() => setView("capital")} style={{ padding: "10px 22px", background: "#DAA52022", border: "1px solid #DAA52055", borderRadius: 10, color: "#DAA520", fontSize: 12, cursor: "pointer", fontFamily: "'Sora', sans-serif", fontWeight: 600 }}
           onMouseEnter={e => { e.currentTarget.style.background = "#DAA52033"; e.currentTarget.style.borderColor = "#DAA520"; }}
           onMouseLeave={e => { e.currentTarget.style.background = "#DAA52022"; e.currentTarget.style.borderColor = "#DAA52055"; }}>
@@ -2004,7 +1990,7 @@ function DiagnosisView({ setView }) {
       <div className="cy-section-num" style={{ color: C.border }}>—</div>
       <h1 className="cy-h1">How Rational Decisions<br />Built an<br /><em>Irrational System.</em></h1>
       <p className="cy-body" style={{ maxWidth: 640, fontSize: 15, marginBottom: 32 }}>
-        Cape York's beef industry did not fail through incompetence or neglect. Every decision made — breeding for frame, supplementing for condition, trucking to Townsville — was a rational response to the signals the market was sending. The problem is that those signals were designed for a different country, a different climate, and a different production system. Cape York has been answering the wrong question correctly for 50 years. The question was: how do we compete with southern Australian beef? The correct question is: what does this country, these cattle, and this season actually produce most efficiently — and who wants to buy it?
+        Cape York's beef industry did not fail through incompetence or neglect. It failed because a series of individually reasonable decisions — each a logical response to real market signals — compounded into a system that is fundamentally wrong for this country, these cattle, and these conditions. Every step made sense. The destination was catastrophic.
       </p>
 
       <div className="cy-eyebrow" style={{ marginBottom: 16 }}>The Step-by-Step Collapse — click to expand</div>
@@ -2211,7 +2197,7 @@ function PathSelector({ setView }) {
       col: C.sky,
       colDim: C.sky + "22",
       border: C.sky + "66",
-      desc: "The sea is the correct path. It's been tried — and it failed, not because the economics were wrong but because the ownership structure was wrong. Stations that committed cattle didn't deliver. The fix: Corporate Carbon owns the vessel; partner stations hold equity. You don't walk away from infrastructure you own.",
+      desc: "Coastal shipping out of Weipa to southern markets — owned infrastructure, not a charter service. Partner stations hold equity in the vessel. The commitment problem that killed previous attempts is solved by ownership structure.",
       stats: [
         { v: "$6–14M", l: "Self-funded" },
         { v: "2027", l: "First voyage" },
@@ -2227,11 +2213,11 @@ function PathSelector({ setView }) {
       col: C.turquoise,
       colDim: C.turquoise + "22",
       border: C.turquoise + "66",
-      desc: "The full international build. Process at Weipa. Ship north to Asia. Five export streams verified under CYFER. $1B Special Purpose Vehicle — Federal Government, Rio Tinto, and Paniri as founding partners.",
+      desc: "The full international build. Process at Weipa. Ship north to Asia. Four export streams verified under PFES. $1B Special Purpose Vehicle — Federal Government, Rio Tinto, and Paniri as founding partners.",
       stats: [
         { v: "$1B", l: "SPV Capital" },
         { v: "150K", l: "Head by 2040" },
-        { v: "5", l: "Export Streams" },
+        { v: "4", l: "Export Streams" },
         { v: "2035", l: "Full export target" },
       ],
       tag: "ACT II",
@@ -2246,7 +2232,7 @@ function PathSelector({ setView }) {
           <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: C.turquoise, letterSpacing: "0.18em", textTransform: "uppercase", marginBottom: 14 }}>Paniri Agricultural Co. × Corporate Carbon</div>
           <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 48, color: C.sand, lineHeight: 1.05, marginBottom: 12 }}>Choose your path.</div>
           <div style={{ fontFamily: "'Sora', sans-serif", fontSize: 14, color: C.muted, maxWidth: 480, margin: "0 auto", lineHeight: 1.7 }}>
-            Cape York's cattle industry has contracted by two-thirds over 50 years — not because the country failed, but because the wrong system was imposed on it. The fix requires two things in sequence: prove you can move cattle through Weipa cost-effectively, then build the export infrastructure on that proof.
+            Two distinct chapters of the same thesis. Cape Passage proves the model. Cape York 2040 deploys it at scale.
           </div>
         </div>
 
@@ -2322,166 +2308,9 @@ function PathSelector({ setView }) {
 }
 
 
-function FinancialsView({ setView }) {
-  const [beat, setBeat] = useState(null);
-
-  const rows = [
-    { yr: "2025", ph: "I",   live: null,    beef: null,    gen: null,   toll: 1.25,  total: 1.25,   note: "Toll only — pre-operational" },
-    { yr: "2026", ph: "I",   live: null,    beef: null,    gen: null,   toll: 1.37,  total: 1.37,   note: "" },
-    { yr: "2027", ph: "I",   live: null,    beef: null,    gen: null,   toll: 1.52,  total: 1.52,   note: "" },
-    { yr: "2028", ph: "I",   live: null,    beef: null,    gen: null,   toll: 1.69,  total: 1.69,   note: "" },
-    { yr: "2029", ph: "I",   live: null,    beef: null,    gen: null,   toll: 1.89,  total: 1.89,   note: "" },
-    { yr: "2030", ph: "I",   live: null,    beef: null,    gen: null,   toll: 2.12,  total: 2.12,   note: "" },
-    { yr: "2031", ph: "II",  live: 15.2,    beef: null,    gen: 0.63,   toll: 2.40,  total: 18.2,   note: "First operational season" },
-    { yr: "2032", ph: "II",  live: 41.4,    beef: 37.3,    gen: 1.65,   toll: 2.73,  total: 83.1,   note: "Boxed beef online" },
-    { yr: "2033", ph: "II",  live: 68.5,    beef: 91.4,    gen: 3.70,   toll: 3.11,  total: 166.7,  note: "" },
-    { yr: "2034", ph: "II",  live: 86.0,    beef: 170.9,   gen: 5.60,   toll: 3.58,  total: 266.1,  note: "" },
-    { yr: "2035", ph: "III", live: 98.7,    beef: 237.7,   gen: 8.64,   toll: 4.13,  total: 349.2,  note: "Full capacity — extraction flip", highlight: true },
-    { yr: "2036", ph: "III", live: 100.7,   beef: 242.5,   gen: 9.33,   toll: 4.30,  total: 356.8,  note: "" },
-    { yr: "2037", ph: "III", live: 102.7,   beef: 247.3,   gen: 10.07,  toll: 4.50,  total: 364.6,  note: "" },
-    { yr: "2038", ph: "III", live: 104.8,   beef: 252.3,   gen: 10.88,  toll: 4.73,  total: 372.6,  note: "" },
-    { yr: "2039", ph: "III", live: 106.9,   beef: 257.3,   gen: 11.75,  toll: 5.00,  total: 380.9,  note: "" },
-    { yr: "2040", ph: "III", live: 109.0,   beef: 262.4,   gen: 12.69,  toll: 5.31,  total: 389.5,  note: "Exit horizon" },
-  ];
-
-  const maxTotal = 389.5;
-
-  const beats = [
-    {
-      id: "floor",
-      col: C.dirt,
-      label: "Beef Is The Floor",
-      sub: "2031 → 2035",
-      body: "Live cattle + boxed beef together represent ~96% of operating revenue at full capacity. Beef ramps from zero to $336M between 2031 and 2035. These streams are predictable, scalable, and anchored to herd growth. They are the floor of the investment thesis. Genetics and CYFER toll are the margin story above it.",
-    },
-    {
-      id: "stepchange",
-      col: C.gold,
-      label: "The 2035 Step-Change",
-      sub: "$266M → $349M (+31%)",
-      body: "The $83M single-year jump in 2034→2035 is not a forecast assumption — it is a population dynamics threshold. Steer extraction rate flips from 85% to 97%. Cull cow rate moves from 12% to 28%. Total offtake nearly doubles: 32,051 head in 2034 to 54,956 in 2035. This is Phase III extraction mode activating. The step-change is mechanical. The model shows herd exceeding its own targets at every checkpoint — 149,000 head by 2034 against a 110,000 projection.",
-    },
-    {
-      id: "infrastructure",
-      col: C.turquoise,
-      label: "Phase III: Standards Infrastructure",
-      sub: "2035 → 2040+",
-      body: "From 2035, Cape York 2040 stops being a cattle business and becomes a standards infrastructure business. CYFER converts from an operational verification fee to a payment rail. The base model carries sub-licensing royalties from other regions adopting CYFER as unmodelled upside — a conservative choice. Genetics, compounding at +8%/yr, reaches $12.69M by 2040 and continues beyond exit horizon. The infrastructure buyer acquires the terminal. Paniri retains the toll gate permanently.",
-    },
-  ];
-
-  const phaseColors = { I: C.turquoise, II: C.gold, III: C.dirt };
-
-  return (
-    <div className="cy-page">
-      <div className="cy-eyebrow">Financial Model</div>
-      <div className="cy-section-num">10</div>
-      <h1 className="cy-h1">$0 to $349M.<br /><em>Mechanically.</em></h1>
-      <p className="cy-body" style={{ maxWidth: 580, marginBottom: 24 }}>
-        Population model output, AUD. Four verified streams + CYFER toll infrastructure. Full capacity 2035. Exit horizon 2040.
-      </p>
-
-      {/* Narrative Beats */}
-      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>Three Narrative Beats</div>
-      <div style={{ display: "flex", flexDirection: "column", gap: 8, marginBottom: 28 }}>
-        {beats.map(b => (
-          <div key={b.id} className="cy-card" style={{ borderLeft: `4px solid ${b.col}`, borderRadius: "0 12px 12px 0", cursor: "pointer" }}
-            onClick={() => setBeat(beat === b.id ? null : b.id)}>
-            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-              <div>
-                <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 16, color: b.col, marginBottom: 2 }}>{b.label}</div>
-                <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: C.muted, letterSpacing: "0.08em" }}>{b.sub}</div>
-              </div>
-              <div style={{ color: b.col, fontSize: 16, fontFamily: "'IBM Plex Mono', monospace" }}>{beat === b.id ? "−" : "+"}</div>
-            </div>
-            {beat === b.id && (
-              <div style={{ marginTop: 14, fontSize: 13, color: C.muted, lineHeight: 1.7, borderTop: `1px solid ${C.border}`, paddingTop: 12 }}>
-                {b.body}
-              </div>
-            )}
-          </div>
-        ))}
-      </div>
-
-      {/* Revenue Table */}
-      <div className="cy-eyebrow" style={{ marginBottom: 10 }}>Revenue Table — AUD $M</div>
-      <div style={{ overflowX: "auto", marginBottom: 28 }}>
-        <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 11, fontFamily: "'IBM Plex Mono', monospace" }}>
-          <thead>
-            <tr style={{ borderBottom: `1px solid ${C.border}` }}>
-              {["Year", "Ph", "Live Cattle", "Boxed Beef", "Genetics", "CYFER Toll", "TOTAL"].map(h => (
-                <th key={h} style={{ padding: "6px 8px", textAlign: h === "Year" || h === "Ph" ? "left" : "right", color: C.muted, fontWeight: 500, letterSpacing: "0.06em", fontSize: 9 }}>{h}</th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {rows.map(r => (
-              <tr key={r.yr} style={{
-                borderBottom: `1px solid ${C.border}22`,
-                background: r.highlight ? `${C.gold}11` : "transparent",
-              }}>
-                <td style={{ padding: "5px 8px", color: r.highlight ? C.gold : C.text, fontWeight: r.highlight ? 600 : 400 }}>{r.yr}</td>
-                <td style={{ padding: "5px 8px" }}>
-                  <span style={{ color: phaseColors[r.ph], fontSize: 9, fontWeight: 600 }}>{r.ph}</span>
-                </td>
-                {[r.live, r.beef, r.gen, r.toll].map((v, i) => (
-                  <td key={i} style={{ padding: "5px 8px", textAlign: "right", color: v ? C.muted : C.faint }}>
-                    {v ? `$${v}M` : "—"}
-                  </td>
-                ))}
-                <td style={{ padding: "5px 8px", textAlign: "right", color: r.highlight ? C.gold : C.turquoise, fontWeight: r.highlight ? 700 : 600 }}>
-                  ${r.total}M
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-
-      {/* Visual ramp bars */}
-      <div className="cy-eyebrow" style={{ marginBottom: 10 }}>Revenue Ramp — Visual</div>
-      <div style={{ display: "flex", flexDirection: "column", gap: 4, marginBottom: 28 }}>
-        {rows.map(r => (
-          <div key={r.yr} style={{ display: "flex", alignItems: "center", gap: 10 }}>
-            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.muted, width: 34, flexShrink: 0 }}>{r.yr}</div>
-            <div style={{ flex: 1, height: 14, background: C.faint, borderRadius: 3, overflow: "hidden" }}>
-              <div style={{
-                height: "100%",
-                width: `${(r.total / maxTotal) * 100}%`,
-                background: r.highlight
-                  ? `linear-gradient(90deg, ${C.dirt}, ${C.gold})`
-                  : r.ph === "III"
-                  ? C.dirt + "BB"
-                  : r.ph === "II"
-                  ? C.turquoise + "88"
-                  : C.turquoise + "33",
-                borderRadius: 3,
-                transition: "width 0.3s",
-              }} />
-            </div>
-            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: r.highlight ? C.gold : C.muted, width: 52, textAlign: "right", flexShrink: 0 }}>
-              ${r.total}M
-            </div>
-          </div>
-        ))}
-      </div>
-
-      <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
-        <button onClick={() => setView("exports")} style={{ padding: "7px 16px", background: C.turquoise + "22", border: `1px solid ${C.turquoise}55`, borderRadius: 20, color: C.turquoise, fontSize: 11, cursor: "pointer", fontFamily: "'IBM Plex Mono', monospace", letterSpacing: "0.06em" }}>
-          ↗ Export Streams
-        </button>
-        <button onClick={() => setView("phases")} style={{ padding: "7px 16px", background: C.gold + "22", border: `1px solid ${C.gold}55`, borderRadius: 20, color: C.gold, fontSize: 11, cursor: "pointer", fontFamily: "'IBM Plex Mono', monospace", letterSpacing: "0.06em" }}>
-          ↗ Phase Plan
-        </button>
-      </div>
-    </div>
-  );
-}
-
 const VIEWS = {
   choose: PathSelector,
   profitability: ProfitabilityView,
-  financials: FinancialsView,
   diagnosis: DiagnosisView,
   passage: CapePassageView,
   overview: OverviewView,
