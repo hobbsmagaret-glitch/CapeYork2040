@@ -150,23 +150,23 @@ function InjectStyles() {
 }
 
 const TABS = [
-  ["profitability", "Profitability"],
-  ["diagnosis", "First Principles"],
-  ["passage", "Prove the Boat"],
-  ["overview", "Overview"],
-  ["strategy", "Strategic Case"],
-  ["problem", "Problem / Solution"],
-  ["seasonal", "Seasonal Model"],
-  ["genetics", "Cattle Genetics"],
-  ["exports", "Export Streams"],
-  ["terminal", "Weipa Terminal"],
-  ["markets", "Markets"],
-  ["capital", "Capital"],
-  ["governance", "Governance"],
-  ["regulatory", "Regulatory"],
-  ["phases", "Phase Plan"],
-  ["risks", "Risks"],
-  ["advisor", "AI Advisor"],
+  ["overview",     "Overview"],
+  ["diagnosis",    "Geographic Inversion"],
+  ["passage",      "Prove the Boat"],
+  ["seasonal",     "Seasonal Model"],
+  ["genetics",     "Cattle Genetics"],
+  ["exports",      "Export Streams"],
+  ["terminal",     "Weipa Terminal"],
+  ["markets",      "Markets"],
+  ["profitability","Profitability"],
+  ["capital",      "Capital"],
+  ["governance",   "Governance"],
+  ["strategy",     "Strategic Case"],
+  ["problem",      "Problem / Solution"],
+  ["regulatory",   "Regulatory"],
+  ["phases",       "Phase Plan"],
+  ["risks",        "Risks"],
+  ["advisor",      "AI Advisor"],
 ];
 
 function Nav({ view, setView }) {
@@ -2005,9 +2005,18 @@ function DiagnosisView({ setView }) {
 
   return (
     <div className="cy-page">
-      <div className="cy-eyebrow">First Principles Diagnosis</div>
+      <div className="cy-eyebrow">The Bedrock — Geographic Inversion</div>
       <div className="cy-section-num" style={{ color: C.border }}>—</div>
-      <h1 className="cy-h1">How Rational Decisions<br />Built an<br /><em>Irrational System.</em></h1>
+      <h1 className="cy-h1">The Cattle Are Next<br />Door to Asia.<br /><em>Nobody Noticed.</em></h1>
+      <p className="cy-body" style={{ maxWidth: 640, fontSize: 15, marginBottom: 16 }}>
+        Cape York sits at the top of Australia — closer to Jakarta than to Sydney. For decades, cattle were trucked 2,500km south past the customer, slaughtered, then shipped back north. Every other element of this framework is a downstream consequence of reversing that direction.
+      </p>
+      <div style={{ background: "#111A16", border: "1px solid #1E2E26", borderLeft: `3px solid ${C.turquoise}`, borderRadius: "0 10px 10px 0", padding: "14px 18px", marginBottom: 32, maxWidth: 620 }}>
+        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: C.turquoise, letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 6 }}>Once You See This, Everything Else Follows</div>
+        <div style={{ fontSize: 13, color: C.muted, lineHeight: 1.75, fontFamily: "'Sora', sans-serif" }}>
+          Why sea transport? North is shorter. Why process at Weipa? The port is already there. Why small-frame cattle? They're already going to Indonesian feedlots — just via the wrong route. Why the seasonal model? Build around the window the country gives you. Why $1B? Because the infrastructure to execute the inversion doesn't exist yet.
+        </div>
+      </div>
       <p className="cy-body" style={{ maxWidth: 640, fontSize: 15, marginBottom: 32 }}>
         Cape York's beef industry did not fail through incompetence or neglect. It failed because a series of individually reasonable decisions — each a logical response to real market signals — compounded into a system that is fundamentally wrong for this country, these cattle, and these conditions. Every step made sense. The destination was catastrophic.
       </p>
@@ -2262,7 +2271,7 @@ function PathSelector({ setView }) {
             onMouseLeave={e => e.currentTarget.style.borderColor = C.border}
             style={{ background: C.bgCard, border: `1px solid ${C.border}`, borderRadius: 14, padding: "20px 28px", cursor: "pointer", transition: "all 0.2s", display: "flex", justifyContent: "space-between", alignItems: "center", gap: 20 }}>
             <div>
-              <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.muted, letterSpacing: "0.15em", textTransform: "uppercase", marginBottom: 6 }}>Read First — First Principles Diagnosis</div>
+              <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.muted, letterSpacing: "0.15em", textTransform: "uppercase", marginBottom: 6 }}>Start Here — The Geographic Inversion</div>
               <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 22, color: C.sand, marginBottom: 6 }}>Why Cape York Is Failing — And Why That's the Opportunity</div>
               <div style={{ fontSize: 12, color: C.muted, fontFamily: "'Sora', sans-serif", lineHeight: 1.6, maxWidth: 580 }}>How individually rational decisions compounded into a structurally irrational system — and why every supposed liability of this country is, in the correct framework, a competitive asset.</div>
             </div>
@@ -2571,7 +2580,7 @@ function AccessGate({ onUnlock }) {
 
 export default function CapeYork2040() {
   const [unlocked, setUnlocked] = useState(false);
-  const [view, setView] = useState("choose");
+  const [view, setView] = useState("overview");
   const View = VIEWS[view] || OverviewView;
 
   if (!unlocked) {
