@@ -152,7 +152,7 @@ function InjectStyles() {
 const TABS = [
   ["profitability", "Profitability"],
   ["diagnosis", "First Principles"],
-  ["passage", "Cape Passage"],
+  ["passage", "Prove the Boat"],
   ["overview", "Overview"],
   ["strategy", "Strategic Case"],
   ["problem", "Problem / Solution"],
@@ -347,9 +347,26 @@ function OverviewView({ setView }) {
       <div className="cy-eyebrow">Paniri Agricultural Co. × Corporate Carbon</div>
       <div className="cy-section-num">00</div>
       <h1 className="cy-h1">The World's First<br /><em>Ecological Protein</em><br />Export Zone</h1>
-      <p className="cy-body" style={{ maxWidth: 580, fontSize: 15 }}>
-        Cape York's remoteness, its small-frame cattle, and its seasonal constraints are not problems. They are structural advantages — if you design the system around them instead of fighting the southern model.
-      </p>
+
+      {/* ── INVESTOR SYNOPSIS ── */}
+      <div style={{ background: "linear-gradient(135deg, #0F4C3A66, #111A16)", border: "1px solid #40E0D055", borderRadius: 14, padding: "22px 26px", marginBottom: 28, marginTop: 8 }}>
+        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: C.turquoise, letterSpacing: "0.14em", textTransform: "uppercase", marginBottom: 14 }}>Investor Synopsis — The Big Picture</div>
+        <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
+          {[
+            { n: "1", label: "The problem", text: "Cape York has 50,000 cattle and no viable market. The wrong genetics were selected for southern processors, transport costs consume the margin, and the cattle travel 2,500km south past Asia to reach a slaughterhouse." },
+            { n: "2", label: "The fix", text: "Put them on a boat going north. Build a processing facility at Weipa using the deep-water port already there. Run it like an Alaskan salmon cannery — surge labour, seasonal export, direct to Asia. The cattle are already next door to the customer." },
+            { n: "3", label: "The first step", text: "Prove we can get cattle out of Weipa on a vessel profitably. This costs $6–14M and is self-funded. Once proven, it unlocks the $1B sovereign capital case for the full export zone." },
+            { n: "4", label: "The return", text: "Four revenue streams: live cattle, boxed ecological beef, genetic material, and ecological carbon credits — all verified under a proprietary standard (CYFES) that becomes a licensable toll road for other regions." },
+          ].map(r => (
+            <div key={r.n} style={{ display: "flex", gap: 14, alignItems: "flex-start" }}>
+              <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, color: C.turquoise, flexShrink: 0, marginTop: 1, fontWeight: 600 }}>{r.n}.</div>
+              <div style={{ fontSize: 13, color: C.muted, lineHeight: 1.7, fontFamily: "'Sora', sans-serif" }}>
+                <strong style={{ color: C.text, fontWeight: 600 }}>{r.label}: </strong>{r.text}
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
 
       <div className="cy-grid4" style={{ marginBottom: 24 }}>
         {metrics.map(m => (
@@ -370,7 +387,8 @@ function OverviewView({ setView }) {
               <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.sky, letterSpacing: "0.12em" }}>ACT I · NOW</div>
               <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.muted }}>2027–2031 →</div>
             </div>
-            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 20, color: C.sand, marginBottom: 6 }}>Cape Passage</div>
+            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 20, color: C.sand, marginBottom: 4 }}>Prove the Boat</div>
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.sky, letterSpacing: "0.08em", marginBottom: 8 }}>Cape Passage — Coastal Proof of Concept</div>
             <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>The sea was always the answer. Tried before — failed due to a coordination problem, not a logistics one. The fix is ownership: Corporate Carbon owns the vessel, partner stations hold equity. You don't walk away from infrastructure you own.</div>
           </div>
           <div style={{ padding: 20, background: C.bgCard, cursor: "pointer" }}
@@ -381,7 +399,8 @@ function OverviewView({ setView }) {
               <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.turquoise, letterSpacing: "0.12em" }}>ACT II · BUILT ON IT</div>
               <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.muted }}>2030–2040 →</div>
             </div>
-            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 20, color: C.sand, marginBottom: 6 }}>Cape York 2040</div>
+            <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 20, color: C.sand, marginBottom: 4 }}>Cape York 2040</div>
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: C.turquoise, letterSpacing: "0.08em", marginBottom: 8 }}>EPEZ — Ecological Protein Export Zone</div>
             <div className="cy-body" style={{ margin: 0, fontSize: 12 }}>Flip the direction. Process at Weipa. Ship north to Asia. International Ecological Protein Export Zone. $1B SPV.</div>
           </div>
         </div>
@@ -2047,7 +2066,7 @@ function DiagnosisView({ setView }) {
         </div>
       </div>
 
-      <div className="cy-eyebrow" style={{ marginBottom: 16 }}>The Carbon Trap — When Two Good Ideas Conflict</div>
+      <div className="cy-eyebrow" style={{ marginBottom: 16 }}>The Carbon Trap — Right Cattle Make Carbon Credits Self-Reinforcing. Wrong Cattle Destroy Them.</div>
       <div className="cy-card" style={{ borderColor: C.gold + "55", marginBottom: 48 }}>
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 20 }}>
           <div>
@@ -2066,7 +2085,7 @@ function DiagnosisView({ setView }) {
         </div>
       </div>
 
-      <div className="cy-eyebrow" style={{ marginBottom: 16 }}>What Changed — The World Shifted. The Framework Didn't.</div>
+      <div className="cy-eyebrow" style={{ marginBottom: 16 }}>Five Global Shifts Made Cape York's Liabilities Into Structural Advantages</div>
       <div style={{ display: "flex", flexDirection: "column", gap: 8, marginBottom: 48 }}>
         {shifted.map(s => (
           <div key={s.label} className="cy-card" style={{ borderLeft: `3px solid ${s.col}`, borderRadius: "0 12px 12px 0" }}>
@@ -2085,7 +2104,7 @@ function DiagnosisView({ setView }) {
         ))}
       </div>
 
-      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>The Answer That Was Always There</div>
+      <div className="cy-eyebrow" style={{ marginBottom: 12 }}>The Cattle Are at the Top of a Peninsula. The Solution Is the Sea.</div>
 
       <div style={{ background: "linear-gradient(135deg, #0F4C3A55, #111A16)", border: "1px solid #40E0D066", borderRadius: 16, padding: 28, marginBottom: 48 }}>
         <div style={{ fontFamily: "'DM Serif Display', serif", fontSize: 28, color: "#F5F0E1", lineHeight: 1.3, marginBottom: 16 }}>
